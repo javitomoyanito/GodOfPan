@@ -1,0 +1,23 @@
+id_cliente,nombre,rut,email,telefono,comuna,fecha_registro,edad,rango_etario,motivo_rechazo
+53,Martín Morales,ABC-9,martin.morales19@hotmail.com,+56913814208,Providencia,2025-11-10,60.0,51+,Infracción: Formato o dígito verificador RUT chileno no válido
+209,Diego Morales,9396824-7,sin.arroba.cl,+56940844858,La Florida,2024-09-07,43.0,31-50,Infracción: Estructura de correo electrónico incorrecta
+62,Catalina Martínez,12345678-J,catalina.martinez70@outlook.cl,+56941446260,La Florida,2024-10-25,53.0,51+,Infracción: Formato o dígito verificador RUT chileno no válido
+215,Camila Tapia,19741399-9,camila.tapia6@yahoo.com,9 8765 4321,Macul,2024-10-01,52.0,51+,Infracción: Teléfono móvil fuera del patrón (+569XXXXXXXX)
+243,Benjamín Silva,22920685-0,cliente@,+56952060866,Puente Alto,2025-02-06,70.0,51+,Infracción: Estructura de correo electrónico incorrecta
+13,Maite Rodríguez,12692914-5,maite.rodriguez1@outlook.cl,98765432,Peñalolén,2025-10-17,62.0,51+,Infracción: Teléfono móvil fuera del patrón (+569XXXXXXXX)
+211,Diego Gutiérrez,10556863-0,diego.gutierrez18@outlook.cl,+56925926241,San Bernardo,2024-11-12,134.0,51+,Infracción: Edad fuera del rango permitido (18 a 110 años)
+66,Josefa Gutiérrez,13303892-2,josefa.gutierrez2@outlook.cl,+56985017167,Estación Central,2025-02-14,0.0,,Infracción: Edad fuera del rango permitido (18 a 110 años)
+113,Maite Araya,25626656-3,correo con espacio@gmail.com,+56917143479,Quilicura,2025-05-27,32.0,31-50,Infracción: Estructura de correo electrónico incorrecta
+200,Sofía Rojas,20444555,sofia.rojas24@gmail.com,+56942927294,Quilicura,2025-02-02,78.0,51+,Infracción: Formato o dígito verificador RUT chileno no válido
+33,Diego Espinoza,19254346-0,diego.espinoza41@yahoo.com,+56991504394,Macul,2024-07-09,7.0,18-30,Infracción: Edad fuera del rango permitido (18 a 110 años)
+191,Emilia Espinoza,18156315-K,emilia.espinoza29@outlook.cl,+56992429979,Macul,2025-03-04,215.0,,Infracción: Edad fuera del rango permitido (18 a 110 años)
+226,Maite Rodríguez,9939643-1,@outlook.cl,+56984342000,La Florida,2024-07-07,56.0,51+,Infracción: Estructura de correo electrónico incorrecta
+80,Amanda Pérez,24736290-8,pedro@gmail,+56975576576,Las Condes,2025-04-30,41.0,31-50,Infracción: Estructura de correo electrónico incorrecta
+246,Diego Araya,13370100-1,ana@@gmail.com,+56986859251,Puente Alto,2024-11-23,69.0,51+,Infracción: Estructura de correo electrónico incorrecta
+233,Vicente Gutiérrez,11887122-7,vicente.gutierrez24@hotmail.com,+56939004202,Estación Central,2025-11-17,-3.0,,Infracción: Edad fuera del rango permitido (18 a 110 años)
+42,Maite Espinoza,10501336-1,maite.espinoza23@gmail.com,569-12345678,Quilicura,2025-02-27,39.0,31-50,Infracción: Teléfono móvil fuera del patrón (+569XXXXXXXX)
+151,Florencia Valenzuela,18829165-1,florencia.valenzuela90@outlook.cl,telefono,Providencia,2025-05-11,43.0,31-50,Infracción: Teléfono móvil fuera del patrón (+569XXXXXXXX)
+267,Renato González,14150616-1,renato.gonzalez60@gmail.com,+56 9 7654 3210,La Florida,2025-08-06,22.0,18-30,Infracción: Teléfono móvil fuera del patrón (+569XXXXXXXX)
+195,Diego González,15333222-X,diego.gonzalez8@gmail.com,+56915762104,Macul,2025-04-18,58.0,51+,Infracción: Formato o dígito verificador RUT chileno no válido
+76,Sofía Gutiérrez,24577901-1,x@x,+56974773101,Peñalolén,2024-09-01,72.0,51+,Infracción: Estructura de correo electrónico incorrecta
+202,Josefa Contreras,9.876.543-2,josefa.contreras12@yahoo.com,+56976108263,Providencia,2025-05-12,76.0,51+,Infracción: Formato o dígito verificador RUT chileno no válido

@@ -1,0 +1,22 @@
+2026-06-12 00:03:40,529 [C] INFO: Lectura pre-carga -> Clientes: 248, Productos: 40, Pedidos: 395
+2026-06-12 00:03:40,530 [C] INFO: Infraestructura de Tablas e Índices creada/verificada.
+2026-06-12 00:03:40,542 [C] INFO: Truncado previo realizado sobre tabla: clientes
+2026-06-12 00:03:40,558 [C] INFO: Escritura Completa: tabla=clientes | total_filas=248
+2026-06-12 00:03:40,566 [C] INFO: Truncado previo realizado sobre tabla: productos
+2026-06-12 00:03:40,575 [C] INFO: Escritura Completa: tabla=productos | total_filas=40
+2026-06-12 00:03:40,586 [C] INFO: Truncado previo realizado sobre tabla: pedidos
+2026-06-12 00:03:40,600 [C] INFO: Escritura Completa: tabla=pedidos | total_filas=395
+2026-06-12 00:03:40,601 [C] WARNING: Falla crítica post-carga: 27 llaves foráneas rotas detected.
+2026-06-12 00:03:40,603 [C] INFO: Métricas BD final -> Clientes: 248 | Productos: 40 | Pedidos: 395 | Ventas: 32956460
+2026-06-12 00:03:40,603 [C] INFO: Fase de persistencia concluida. Registros totales en BD: 683
+2026-06-12 00:04:10,601 [C] INFO: Lectura pre-carga -> Clientes: 248, Productos: 40, Pedidos: 395
+2026-06-12 00:04:10,690 [C] INFO: Infraestructura de Tablas e Índices creada/verificada.
+2026-06-12 00:04:10,698 [C] INFO: Truncado previo realizado sobre tabla: clientes
+2026-06-12 00:04:10,711 [C] INFO: Escritura Completa: tabla=clientes | total_filas=248
+2026-06-12 00:04:10,718 [C] INFO: Truncado previo realizado sobre tabla: productos
+2026-06-12 00:04:10,728 [C] INFO: Escritura Completa: tabla=productos | total_filas=40
+2026-06-12 00:04:10,736 [C] INFO: Truncado previo realizado sobre tabla: pedidos
+2026-06-12 00:04:10,753 [C] INFO: Escritura Completa: tabla=pedidos | total_filas=395
+2026-06-12 00:04:10,754 [C] WARNING: Falla crítica post-carga: 27 llaves foráneas rotas detected.
+2026-06-12 00:04:10,755 [C] INFO: Métricas BD final -> Clientes: 248 | Productos: 40 | Pedidos: 395 | Ventas: 32956460
+2026-06-12 00:04:10,756 [C] INFO: Fase de persistencia concluida. Registros totales en BD: 683

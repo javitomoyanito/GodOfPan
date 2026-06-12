@@ -1,0 +1,56 @@
+id_pedido,id_cliente,id_producto,cantidad,monto_total_clp,fecha_pedido,fecha_despacho,estado,metodo_pago,dias_despacho,monto_normalizado,pago_credito,pago_debito,pago_transferencia,pago_webpay,motivo_rechazo
+301,999,26,1.0,4990.0,2024-07-29,,cancelado,credito,,0.2873,1,0,0,0,Clave foránea inexistente: id_cliente no figura en maestros
+91,143,40,2.0,33980.0,2025-03-29,2025-03-09,entregado,credito,-20.0,0.2965,1,0,0,0,Fecha de despacho cronológicamente previa al pedido
+438,161,99,4.0,35960.0,2025-08-10,2025-08-15,entregado,debito,5.0,0.2971,0,1,0,0,Clave foránea inexistente: id_producto no figura en maestros
+195,139,99,2.0,99980.0,2024-12-29,,cancelado,transferencia,,0.3175,0,0,1,0,Clave foránea inexistente: id_producto no figura en maestros
+300,8888,14,1.0,7990.0,2025-06-29,2025-07-03,entregado,transferencia,4.0,0.2883,0,0,1,0,Clave foránea inexistente: id_cliente no figura en maestros
+410,247,2,1.0,12990.0,2025-01-18,2025-01-20,cancelado,debito,2.0,0.2898,0,1,0,0,Orden cancelada registra fecha de despacho
+447,25,2,4.0,51960.0,2025-02-03,2025-01-13,entregado,debito,-21.0,0.3022,0,1,0,0,Fecha de despacho cronológicamente previa al pedido
+149,128,30,1.0,24990.0,2025-01-06,,entregado,webpay,,0.2936,0,0,0,1,Orden entregada sin fecha de despacho
+24,262,1,2.0,-899980.0,2025-09-12,2025-09-16,entregado,debito,4.0,0.0,0,1,0,0,Infracción: Valor monetario menor o igual a cero; Incoherencia: Monto total difiere de cantidad x precio
+43,169,29,3.0,48970.0,2025-03-11,2025-03-12,entregado,transferencia,1.0,0.3013,0,0,1,0,Incoherencia: Monto total difiere de cantidad x precio
+37,230,3,5.0,274950.0,2024-09-16,,entregado,transferencia,,0.373,0,0,1,0,Orden entregada sin fecha de despacho
+404,149,10,3.0,-74970.0,2025-01-19,2025-01-22,entregado,debito,3.0,0.2619,0,1,0,0,Infracción: Valor monetario menor o igual a cero; Incoherencia: Monto total difiere de cantidad x precio
+28,81,2,,64950.0,2024-06-19,2024-06-23,entregado,webpay,4.0,0.3063,0,0,0,1,Infracción: Volumen menor que uno o tipo de dato erróneo
+250,70,13,4.0,19980.0,2025-02-27,,pendiente,webpay,,0.2921,0,0,0,1,Incoherencia: Monto total difiere de cantidad x precio
+409,184,23,4.0,99960.0,2025-02-19,,entregado,webpay,,0.3174,0,0,0,1,Orden entregada sin fecha de despacho
+256,165,3,2.0,109980.0,2025-10-17,2025-10-19,cancelado,transferencia,2.0,0.3206,0,0,1,0,Orden cancelada registra fecha de despacho
+290,183,15,3.0,12990.0,2025-01-20,2025-01-27,entregado,transferencia,7.0,0.2898,0,0,1,0,Incoherencia: Monto total difiere de cantidad x precio
+424,28,99,3.0,38970.0,2025-06-01,2025-06-05,en_camino,webpay,4.0,0.2981,0,0,0,1,Clave foránea inexistente: id_producto no figura en maestros
+408,232,11,1.0,39990.0,2024-08-07,2024-08-02,entregado,debito,-5.0,0.2984,0,1,0,0,Fecha de despacho cronológicamente previa al pedido
+296,146,21,1.0,-14990.0,2025-09-06,2025-09-10,entregado,transferencia,4.0,0.281,0,0,1,0,Infracción: Valor monetario menor o igual a cero; Incoherencia: Monto total difiere de cantidad x precio
+144,163,15,3.0,59970.0,2025-01-20,,entregado,webpay,,0.3048,0,0,0,1,Orden entregada sin fecha de despacho
+52,213,8,4.0,34960.0,2025-04-24,2025-04-30,entregado,debito,6.0,0.2968,0,1,0,0,Incoherencia: Monto total difiere de cantidad x precio
+303,128,11,0.0,39990.0,2024-12-24,,pendiente,credito,,0.2984,1,0,0,0,Infracción: Volumen menor que uno o tipo de dato erróneo; Incoherencia: Monto total difiere de cantidad x precio
+325,64,35,1.0,27990.0,2025-11-18,2025-11-20,entregado,debito,2.0,0.2946,0,1,0,0,Incoherencia: Monto total difiere de cantidad x precio
+93,204,36,2.0,17980.0,2025-05-17,,entregado,debito,,0.2914,0,1,0,0,Orden entregada sin fecha de despacho
+407,1500,35,5.0,164950.0,2025-05-02,,pendiente,credito,,0.3381,1,0,0,0,Clave foránea inexistente: id_cliente no figura en maestros
+132,98,23,2.0,49980.0,2025-11-24,2025-11-21,entregado,webpay,-3.0,0.3016,0,0,0,1,Fecha de despacho cronológicamente previa al pedido
+78,256,40,2.0,58980.0,2024-08-11,2024-08-14,entregado,webpay,3.0,0.3044,0,0,0,1,Incoherencia: Monto total difiere de cantidad x precio
+42,224,21,5.0,74950.0,2025-08-13,2025-08-05,entregado,credito,-8.0,0.3095,1,0,0,0,Fecha de despacho cronológicamente previa al pedido
+80,128,12,1.0,49990.0,2025-03-11,2025-03-13,cancelado,credito,2.0,0.3016,1,0,0,0,Orden cancelada registra fecha de despacho
+315,220,30,3.0,-74970.0,2025-05-14,2025-05-20,entregado,webpay,6.0,0.2619,0,0,0,1,Infracción: Valor monetario menor o igual a cero; Incoherencia: Monto total difiere de cantidad x precio
+178,134,6,5.0,1499950.0,2024-11-07,2024-10-22,entregado,credito,-16.0,0.7619,1,0,0,0,Fecha de despacho cronológicamente previa al pedido
+202,999,33,2.0,69980.0,2024-11-01,,pendiente,debito,,0.3079,0,1,0,0,Clave foránea inexistente: id_cliente no figura en maestros
+337,999,7,1.0,159990.0,2024-10-14,2024-10-17,entregado,credito,3.0,0.3365,1,0,0,0,Clave foránea inexistente: id_cliente no figura en maestros
+12,204,31,,6990.0,2024-07-30,2024-08-04,entregado,transferencia,5.0,0.2879,0,0,1,0,Infracción: Volumen menor que uno o tipo de dato erróneo
+314,212,8,0.0,39960.0,2024-11-11,2024-11-17,entregado,webpay,6.0,0.2984,0,0,0,1,Infracción: Volumen menor que uno o tipo de dato erróneo; Incoherencia: Monto total difiere de cantidad x precio
+34,79,26,,19960.0,2025-06-13,,cancelado,webpay,,0.2921,0,0,0,1,Infracción: Volumen menor que uno o tipo de dato erróneo
+174,33,99,4.0,139960.0,2024-09-06,2024-09-13,entregado,transferencia,7.0,0.3301,0,0,1,0,Clave foránea inexistente: id_producto no figura en maestros
+1,157,13,4.0,23960.0,2025-07-30,2025-08-01,cancelado,webpay,2.0,0.2933,0,0,0,1,Orden cancelada registra fecha de despacho
+399,252,10,1.0,24990.0,2024-07-06,,entregado,debito,,0.2936,0,1,0,0,Orden entregada sin fecha de despacho
+395,134,99,3.0,14970.0,2025-03-14,2025-03-17,en_camino,webpay,3.0,0.2905,0,0,0,1,Clave foránea inexistente: id_producto no figura en maestros
+191,1500,31,3.0,20970.0,2025-02-24,,pendiente,credito,,0.2924,1,0,0,0,Clave foránea inexistente: id_cliente no figura en maestros
+216,150,37,5.0,49950.0,2025-10-20,2025-10-24,entregado,webpay,4.0,0.3016,0,0,0,1,Incoherencia: Monto total difiere de cantidad x precio
+353,117,25,1.0,8990.0,2024-06-23,,entregado,credito,,0.2886,1,0,0,0,Orden entregada sin fecha de despacho
+158,261,32,1.0,11990.0,2025-07-11,,entregado,credito,,0.2895,1,0,0,0,Orden entregada sin fecha de despacho
+307,40,16,-2.0,29990.0,2024-11-10,2024-11-11,entregado,credito,1.0,0.2952,1,0,0,0,Infracción: Volumen menor que uno o tipo de dato erróneo; Incoherencia: Monto total difiere de cantidad x precio
+416,164,4,-1.0,89970.0,2025-09-08,,cancelado,debito,,0.3143,0,1,0,0,Infracción: Volumen menor que uno o tipo de dato erróneo; Incoherencia: Monto total difiere de cantidad x precio
+109,166,8,1.0,59960.0,2024-07-01,,pendiente,credito,,0.3047,1,0,0,0,Incoherencia: Monto total difiere de cantidad x precio
+25,1500,21,4.0,59960.0,2025-11-27,2025-11-30,entregado,credito,3.0,0.3047,1,0,0,0,Clave foránea inexistente: id_cliente no figura en maestros
+262,216,23,2.0,49980.0,2025-03-02,2025-03-04,cancelado,credito,2.0,0.3016,1,0,0,0,Orden cancelada registra fecha de despacho
+183,256,37,1.0,29990.0,2024-10-07,,cancelado,debito,,0.2952,0,1,0,0,Incoherencia: Monto total difiere de cantidad x precio
+228,179,2,2.0,25980.0,2025-01-05,2025-01-01,entregado,debito,-4.0,0.294,0,1,0,0,Fecha de despacho cronológicamente previa al pedido
+275,250,4,4.0,-119960.0,2025-03-24,2025-03-29,entregado,transferencia,5.0,0.2476,0,0,1,0,Infracción: Valor monetario menor o igual a cero; Incoherencia: Monto total difiere de cantidad x precio
+418,133,9,2.0,19980.0,2024-11-04,2024-11-06,cancelado,debito,2.0,0.2921,0,1,0,0,Orden cancelada registra fecha de despacho
+349,8888,22,2.0,25980.0,2025-09-18,2025-09-23,entregado,webpay,5.0,0.294,0,0,0,1,Clave foránea inexistente: id_cliente no figura en maestros

@@ -1,0 +1,4 @@
+2026-06-12 00:03:27,578 [L] INFO: Ejecutando la Etapa 2 del Pipeline
+2026-06-12 00:03:27,615 [L] INFO: Limpieza Productos finalizada. Original: 40 -> Depurado: 40
+2026-06-12 00:03:27,649 [L] INFO: Limpieza Clientes finalizada. Original: 284 -> Depurado: 270
+2026-06-12 00:03:27,679 [L] INFO: Limpieza Pedidos finalizada. Original: 460 -> Depurado: 450
