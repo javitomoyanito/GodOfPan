@@ -1,0 +1,302 @@
+id_pedido,fecha_pedido,rut_cliente,nombre_cliente,region,producto,categoria,cantidad,precio_unitario,descuento_pct,estado_pedido,fecha_despacho,total_venta,segmento_precio
+204.0,2024-12-17,7489752-5,Cristobal Avila,Valparaiso,Vestido Floral H&M,Moda,-1.0,9990.0,23.7,entregado,2024-03-24,-7622.37,bajo
+176.0,2024-02-15,9467646,Carlos Rodriguez,Maule,Hervidor Electrico Oster,Hogar,3.0,49990.0,14.3,despachado,2024-02-22,128524.29,medio
+173.0,2024-10-22,20421005-0,Renata Campos,,Tablet Samsung A8,Tecnologia,6.0,29990.0,24.9,despachado,2024-10-16,135134.94,medio
+61.0,2024-05-10,16.595.258-9,Nicolas Alvarez,,Purificador Aire Xiaomi,Hogar,4.0,14990.0,13.8,despachado,2024-01-05,51685.52,medio
+181.0,2024-10-01,10.213.591-8,Diego Morales,Ohiggins,Gorra New Era,Moda,7.0,49990.0,21.1,pendiente,,276094.76999999996,medio
+163.0,2024-12-26,8823694,Antonella Bustos,Coquimbo,Vestido Floral H&M,Moda,1.0,49990.0,21.1,despachado,2024-02-02,39442.10999999999,medio
+171.0,2024-12-12,8123742,Catalina Nunez,Araucania,Jeans Skinny Levi's,Hogar,3.0,19990.0,21.3,entregado,2024-09-07,47196.39,medio
+234.0,2024-08-21,9446350-0,Ana Martinez,Biobio,Polera Oversize Zara,Moda,6.0,39990.0,5.5,entregado,2024-07-16,226743.3,medio
+7.0,2024-03-19,20.705.148-8,Paula Mendez,Maule,Smart TV 43 LG,Tecnologia,2.0,79990.0,22.7,cancelado,,123664.54000000001,alto
+198.0,2024-10-17,15.370.100-2,Maria Gonzalez,Ohiggins,Lampara LED de Escritorio,Hogar,1.0,149990.0,21.1,entregado,2024-03-13,118342.10999999999,alto
+293.0,2024-07-18,5958693,Sofia Castro,Biobio,Mouse Inalambrico Logitech,Tecnologia,10.0,29990.0,4.7,entregado,2024-04-27,285804.7,medio
+139.0,2024-08-01,17451294,Catalina Nunez,Ohiggins,Auriculares Sony WH1000,Tecnologia,8.0,14990.0,27.4,entregado,2024-09-28,87061.92,medio
+70.0,2024-04-15,24.997.825-0,Antonella Bustos,Metropolitana,Notebook Lenovo IdeaPad,Tecnologia,4.0,39990.0,29.7,entregado,2024-10-10,112451.88,medio
+53.0,2024-05-27,10314289,Juan Perez,Araucania,Cafetera De Longhi,Hogar,0.0,4990.0,8.0,pendiente,,0.0,bajo
+90.0,2024-04-08,22667469,Andres Vargas,Valparaiso,Licuadora Oster 600W,Hogar,4.0,14990.0,10.3,entregado,2024-03-11,53784.12,medio
+189.0,2024-02-18,12.944.741-4,Antonella Bustos,Ohiggins,Vestido Floral H&M,Moda,8.0,39990.0,29.2,pendiente,,226503.36,medio
+14.0,2024-02-08,21295412-7,Antonella Bustos,Araucania,Zapatillas Adidas Ultraboost,Tecnologia,7.0,14990.0,5.5,entregado,2024-10-08,99158.84999999999,medio
+245.0,2024-06-25,15.817.324-1,Paula Mendez,Maule,Chaqueta Parka Columbia,Moda,4.0,19990.0,18.7,despachado,2024-03-08,65007.479999999996,medio
+51.0,2024-02-16,21625181,Diego Morales,Araucania,Licuadora Oster 600W,Hogar,10.0,14990.0,13.1,entregado,2024-06-27,130263.1,medio
+140.0,2024-02-07,5514513-3,Catalina Nunez,Valparaiso,Notebook Lenovo IdeaPad,Tecnologia,7.0,29990.0,20.2,entregado,2024-10-27,167524.14,medio
+212.0,2024-02-21,13862954,Constanza Rojas,Metropolitana,Hervidor Electrico Oster,Hogar,3.0,49990.0,4.4,entregado,2024-10-15,143371.32,medio
+235.0,2024-07-13,21209463-7,Cristobal Avila,Coquimbo,Purificador Aire Xiaomi,Hogar,10.0,79990.0,20.4,despachado,2024-07-02,636720.4,alto
+200.0,2024-07-10,10284953,Constanza Rojas,Maule,Jeans Skinny Levi's,Moda,9.0,9990.0,25.8,cancelado,,66713.22,bajo
+2.0,2024-01-04,8112034-6,Sofia Castro,Coquimbo,Smart TV 43 LG,Tecnologia,4.0,49990.0,13.5,despachado,2024-03-22,172965.4,medio
+24.0,2024-08-23,14.348.367-1,Sofia Castro,Biobio,Polera Oversize Zara,Moda,1.0,49990.0,25.8,despachado,2024-06-05,37092.58,medio
+38.0,2024-02-08,9061933-9,Sofia Castro,Ohiggins,Purificador Aire Xiaomi,Hogar,7.0,199990.0,11.9,entregado,2024-12-19,1233338.33,alto
+290.0,2024-05-26,24180974-6,Pedro Muñoz,Araucania,Freidora de Aire Ultracomb,Hogar,8.0,79990.0,26.7,entregado,2024-11-19,469061.36,alto
+230.0,2024-05-18,14486065-1,Constanza Rojas,Ohiggins,Zapatillas Nike Air Max,Moda,7.0,29990.0,19.8,entregado,2024-11-06,168363.86000000002,medio
+295.0,2024-06-06,16.538.863-4,Paula Mendez,Biobio,Lampara LED de Escritorio,Hogar,0.0,79990.0,6.8,pendiente,,0.0,alto
+270.0,2024-09-03,22139768-4,Catalina Nunez,Valparaiso,Bolso Cuero Sintético,Moda,4.0,9990.0,13.5,cancelado,,34565.4,bajo
+121.0,2024-05-06,21.408.220-5,Sofia Castro,Biobio,Parka Impermeable North Face,Moda,5.0,199990.0,18.3,despachado,2024-10-12,816959.1499999999,alto
+177.0,2024-06-28,7908767-1,Alejandro Fuentes,Maule,Smart TV 43 LG,Tecnologia,1.0,149990.0,18.3,despachado,2024-04-19,122541.82999999999,alto
+82.0,2024-06-15,19.618.878-9,Sebastian Herrera,Valparaiso,Vestido Floral H&M,Moda,7.0,199990.0,8.7,entregado,2024-11-12,1278136.09,alto
+44.0,2024-04-09,6.829.589-8,Tomas Espinoza,,Purificador Aire Xiaomi,Hogar,0.0,99990.0,8.5,pendiente,,0.0,alto
+6.0,2024-08-22,24.580.115-6,Valentina Torres,Valparaiso,Parka Impermeable North Face,Moda,8.0,19990.0,11.9,cancelado,,140889.52,medio
+68.0,2024-07-31,12.290.360-7,Valentina Torres,Maule,Gorra New Era,Moda,10.0,49990.0,22.3,despachado,2024-02-20,388422.3,medio
+123.0,2024-10-14,6.761.309-1,Andres Vargas,Maule,Zapatillas Adidas Ultraboost,Tecnologia,4.0,19990.0,24.8,despachado,2024-05-19,60129.92,medio
+170.0,2024-10-20,6989304,Carlos Rodriguez,Biobio,Gorra New Era,Moda,6.0,14990.0,29.4,despachado,2024-09-20,63497.64,medio
+278.0,2024-09-21,7.913.961-4,Sofia Castro,Maule,Gorra New Era,Moda,4.0,29990.0,1.0,entregado,2024-04-28,118760.4,medio
+104.0,2024-03-11,11242736,Diego Morales,,Tablet Samsung A8,Tecnologia,6.0,39990.0,13.3,pendiente,,208027.98,medio
+155.0,2024-08-13,11.739.457-7,Lucia Fernandez,Biobio,Disco SSD 500GB,Tecnologia,10.0,39990.0,11.4,cancelado,,354311.4,medio
+294.0,2024-03-10,22564396,Paula Mendez,Maule,Cafetera De Longhi,Hogar,9.0,79990.0,28.0,entregado,2024-10-03,518335.19999999995,alto
+88.0,2024-12-02,18151927,Tomas Espinoza,Ohiggins,Webcam Logitech C920,Tecnologia,9.0,9990.0,20.4,despachado,2024-03-17,71568.36,bajo
+289.0,2024-05-11,23.066.989-2,Sofia Castro,Biobio,Lampara LED de Escritorio,Hogar,6.0,29990.0,10.8,entregado,2024-01-11,160506.48,medio
+149.0,2024-10-15,9695962,Catalina Nunez,Valparaiso,Pendrive 64GB Kingston,Tecnologia,7.0,14990.0,27.9,despachado,2024-10-17,75654.53000000001,medio
+124.0,2024-03-21,15776599,Maria Gonzalez,Araucania,Zapatillas Adidas Ultraboost,Moda,3.0,9990.0,0.2,entregado,2024-11-30,29910.06,bajo
+35.0,2024-08-24,14.336.742-6,Gabriel Molina,Valparaiso,Purificador Aire Xiaomi,Hogar,1.0,149990.0,2.5,entregado,2024-01-26,146240.25,alto
+65.0,2024-06-22,18.334.916-8,Pedro Muñoz,Coquimbo,Plancha a Vapor Philips,Hogar,8.0,29990.0,29.0,despachado,2024-02-28,170343.19999999998,medio
+144.0,2024-09-25,12765616,Carlos Rodriguez,Metropolitana,Zapatillas Adidas Ultraboost,Moda,9.0,14990.0,105.0,cancelado,,-6745.500000000006,medio
+192.0,2024-02-18,17490293,Nicolas Alvarez,Araucania,Notebook Lenovo IdeaPad,Tecnologia,-1.0,49990.0,16.7,entregado,2024-02-22,-41641.67,medio
+236.0,2024-12-26,16351485,Tomas Espinoza,Coquimbo,Cafetera De Longhi,Hogar,2.0,4990.0,7.8,despachado,2024-12-13,9201.560000000001,bajo
+257.0,2024-11-06,22900207-3,Catalina Nunez,Metropolitana,Webcam Logitech C920,Tecnologia,2.0,99990.0,8.7,entregado,2024-05-24,182581.74000000002,alto
+172.0,2024-02-17,18.345.130-3,Gabriel Molina,Maule,Lampara LED de Escritorio,Hogar,8.0,79990.0,9.8,pendiente,,577207.84,alto
+58.0,2024-02-08,16024831,Diego Morales,Araucania,Aspiradora Robot Xiaomi,Hogar,7.0,14990.0,26.1,cancelado,,77543.27,medio
+269.0,2024-03-09,23911435-K,Cristobal Avila,Maule,Aspiradora Robot Xiaomi,Tecnologia,1.0,19990.0,3.8,entregado,2024-09-19,19230.38,medio
+112.0,2024-06-25,20085938-3,Ana Martinez,Araucania,Webcam Logitech C920,Tecnologia,3.0,149990.0,9.4,entregado,2024-03-07,407672.82,alto
+117.0,2024-06-12,22.103.167-8,Tomas Espinoza,Valparaiso,Plancha a Vapor Philips,Hogar,9.0,149990.0,4.2,cancelado,,1293213.78,alto
+76.0,2024-09-16,8854911,Valentina Torres,Valparaiso,Zapatillas Nike Air Max,Moda,10.0,29990.0,9.4,pendiente,,271709.4,medio
+292.0,2024-12-24,6.806.082-0,Sebastian Herrera,Maule,Notebook Lenovo IdeaPad,Tecnologia,4.0,14990.0,19.9,cancelado,,48027.96,medio
+264.0,2024-02-16,10564786-8,Matias Silva,Araucania,Microondas Mabe 20L,Hogar,5.0,149990.0,4.0,entregado,2024-07-05,719952.0,alto
+48.0,2024-05-24,11637711-6,Paula Mendez,Maule,Perfume Hugo Boss,Tecnologia,5.0,79990.0,1.0,despachado,2024-08-20,395950.5,alto
+108.0,2024-06-25,6859346,Carlos Rodriguez,Valparaiso,Webcam Logitech C920,Tecnologia,2.0,199990.0,13.5,entregado,,345982.7,alto
+260.0,2024-05-28,12.869.616-1,Daniela Rios,Maule,Perfume Hugo Boss,Moda,9.0,4990.0,13.8,entregado,2024-02-04,38712.42,bajo
+281.0,2024-08-22,12394803,Valentina Torres,Maule,Set Cuchillos Tramontina,Hogar,8.0,149990.0,23.1,entregado,2024-08-23,922738.48,alto
+297.0,2024-05-02,18854755-3,Lucia Fernandez,Ohiggins,Vestido Floral H&M,Moda,4.0,49990.0,7.9,entregado,2024-11-09,184163.16,medio
+45.0,2024-08-13,21500276,Nicolas Alvarez,,Tablet Samsung A8,Tecnologia,1.0,9990.0,17.2,entregado,,8271.720000000001,bajo
+274.0,2024-07-04,14.246.277-K,Alejandro Fuentes,Metropolitana,Zapatillas Nike Air Max,Moda,4.0,49990.0,20.6,despachado,2024-03-20,158768.24000000002,medio
+285.0,2024-12-17,12071676,Ana Martinez,,Vestido Floral H&M,Moda,9.0,79990.0,1.0,despachado,2024-03-30,712710.9,alto
+,,,,,,,,,,,,,desconocido
+272.0,2024-01-01,21.177.378-6,Ignacio Flores,Coquimbo,Mouse Inalambrico Logitech,Tecnologia,3.0,79990.0,-5.0,entregado,,251968.5,alto
+287.0,2024-05-18,20870810-0,Isabela Reyes,Coquimbo,Pendrive 64GB Kingston,Tecnologia,10.0,14990.0,20.6,entregado,2024-04-30,119020.6,medio
+113.0,2024-03-22,22.271.299-7,Cristobal Avila,Coquimbo,Auriculares Sony WH1000,Tecnologia,10.0,49990.0,12.5,cancelado,,437412.5,medio
+85.0,2024-06-04,17372780-4,Nicolas Alvarez,,Lampara LED de Escritorio,Hogar,8.0,14990.0,2.0,entregado,2024-05-20,117521.59999999999,medio
+63.0,2024-04-27,9589549-K,Cristobal Avila,Ohiggins,Zapatillas Nike Air Max,Moda,8.0,149990.0,25.0,cancelado,,899940.0,alto
+23.0,2024-07-30,13327110-4,Fernanda Pizarro,Metropolitana,Jeans Skinny Levi's,Moda,3.0,19990.0,29.3,entregado,2024-04-01,42398.79,medio
+242.0,2024-07-31,24774169-8,Constanza Rojas,Metropolitana,Microondas Mabe 20L,Hogar,4.0,79990.0,21.5,pendiente,,251168.6,alto
+42.0,2024-09-08,23.571.470-8,Isabela Reyes,Araucania,Cafetera De Longhi,Tecnologia,4.0,99990.0,20.7,entregado,2024-01-09,317168.28,alto
+10.0,2024-09-29,12106768,Tomas Espinoza,Coquimbo,Polera Oversize Zara,Moda,8.0,9990.0,24.5,cancelado,,60339.6,bajo
+119.0,2024-07-13,19.051.935-2,Tomas Espinoza,Valparaiso,Pendrive 64GB Kingston,Tecnologia,3.0,79990.0,15.7,entregado,2024-12-14,202294.71,alto
+232.0,2024-02-16,14.932.856-4,Maria Gonzalez,Coquimbo,Mouse Inalambrico Logitech,Tecnologia,10.0,9990.0,20.1,pendiente,,79820.09999999999,bajo
+217.0,2024-08-30,14.565.341-0,Maria Gonzalez,Ohiggins,Notebook Lenovo IdeaPad,Tecnologia,6.0,19990.0,14.7,entregado,2024-10-09,102308.81999999999,medio
+101.0,2024-09-22,15778067-1,Andres Vargas,Biobio,Set Cuchillos Tramontina,Hogar,3.0,39990.0,14.9,entregado,2024-02-12,102094.47,medio
+222.0,2024-12-09,20796784,Francisco Diaz,Biobio,Chaqueta Parka Columbia,Moda,9.0,199990.0,19.1,entregado,2024-09-16,1456127.19,alto
+211.0,2024-02-04,5414860,Sebastian Herrera,Metropolitana,Jeans Skinny Levi's,Moda,5.0,149990.0,9.6,entregado,2024-07-17,677954.8,alto
+33.0,2024-04-15,16.803.066-4,Antonella Bustos,Coquimbo,Disco SSD 500GB,Tecnologia,6.0,49990.0,-5.0,entregado,2024-08-03,314937.0,medio
+30.0,2024-01-03,23703434-3,Matias Silva,Coquimbo,Disco SSD 500GB,Tecnologia,7.0,79990.0,7.3,entregado,2024-02-24,519055.11000000004,alto
+32.0,2024-02-09,17852531,Roberto Lopez,Maule,Bolso Cuero Sintético,Moda,8.0,99990.0,18.8,despachado,2024-05-26,649535.04,alto
+75.0,2024-07-09,16.864.782-K,Antonella Bustos,Coquimbo,Hervidor Electrico Oster,Tecnologia,2.0,9990.0,2.8,pendiente,,19420.56,bajo
+150.0,2024-11-05,20117955-7,Sofia Castro,Coquimbo,Aspiradora Robot Xiaomi,Hogar,7.0,9990.0,7.0,pendiente,,65034.899999999994,bajo
+252.0,2024-06-18,5295403,Sofia Castro,Biobio,Hervidor Electrico Oster,Hogar,4.0,39990.0,26.5,entregado,,117570.59999999999,medio
+190.0,2024-04-13,11.967.115-7,Matias Silva,Valparaiso,Set Cuchillos Tramontina,Tecnologia,6.0,39990.0,13.6,despachado,2024-10-26,207308.16,medio
+209.0,2024-09-24,18247436,Ignacio Flores,Araucania,Vestido Floral H&M,Moda,4.0,149990.0,16.6,entregado,2024-10-01,500366.63999999996,alto
+162.0,2024-10-13,5979530-9,Matias Silva,Araucania,Teclado Mecanico Redragon,Tecnologia,9.0,19990.0,5.2,despachado,2024-08-24,170554.68,medio
+59.0,2024-12-16,19887381,Camila Sanchez,Biobio,Cafetera De Longhi,Hogar,1.0,99990.0,18.5,despachado,2024-04-26,81491.84999999999,alto
+215.0,2024-09-05,22005227-6,Alejandro Fuentes,Coquimbo,Polera Oversize Zara,Moda,8.0,19990.0,6.3,entregado,2024-09-21,149845.04,medio
+201.0,2024-07-01,10962900,Ignacio Flores,Valparaiso,Parka Impermeable North Face,Moda,9.0,14990.0,20.8,cancelado,,106848.72,medio
+238.0,2024-06-18,19.904.505-9,Pedro Muñoz,,Cafetera De Longhi,Hogar,2.0,14990.0,22.5,despachado,2024-01-26,23234.5,medio
+237.0,2024-06-26,5390736-K,Sebastian Herrera,Maule,Perfume Hugo Boss,Moda,7.0,9990.0,19.9,despachado,2024-12-12,56013.93,bajo
+74.0,2024-08-19,13552682-5,Javiera Vega,Valparaiso,Hervidor Electrico Oster,Hogar,9.0,9990.0,21.6,despachado,2024-07-30,70489.44,bajo
+72.0,2024-11-10,18476038,Ana Martinez,Metropolitana,Freidora de Aire Ultracomb,Hogar,2.0,149990.0,13.6,despachado,2024-12-03,259182.72,alto
+132.0,2024-10-15,12311554-9,Maria Gonzalez,Metropolitana,Zapatillas Adidas Ultraboost,Moda,8.0,4990.0,4.0,entregado,2024-10-13,38323.2,bajo
+71.0,2024-01-14,7.132.653-7,Alejandro Fuentes,Valparaiso,Teclado Mecanico Redragon,Tecnologia,-3.0,99990.0,-5.0,pendiente,,-314968.5,alto
+265.0,2024-09-04,22.377.344-5,Constanza Rojas,Biobio,Teclado Mecanico Redragon,Moda,10.0,149990.0,19.8,cancelado,,1202919.8,alto
+109.0,2024-09-22,22900552,Nicolas Alvarez,Biobio,Plancha a Vapor Philips,Hogar,6.0,14990.0,28.0,despachado,2024-02-10,64756.799999999996,medio
+89.0,2024-03-06,19.207.160-8,Juan Perez,Maule,Auriculares Sony WH1000,Tecnologia,7.0,99990.0,19.3,despachado,2024-12-25,564843.51,alto
+243.0,2024-09-04,15.799.284-8,Isabela Reyes,Ohiggins,Smart TV 43 LG,Tecnologia,9.0,4990.0,28.1,entregado,2024-03-31,32290.289999999997,bajo
+193.0,2024-02-03,16124968-1,Matias Silva,Valparaiso,Pendrive 64GB Kingston,Tecnologia,5.0,149990.0,27.5,pendiente,,543713.75,alto
+122.0,2024-07-21,16622030,Francisco Diaz,Coquimbo,Bolso Cuero Sintético,Moda,2.0,29990.0,17.2,entregado,2024-06-25,49663.44,medio
+145.0,2024-12-07,14.218.769-8,Juan Perez,,Monitor Samsung 24,Tecnologia,8.0,99990.0,11.2,entregado,2024-09-04,710328.96,alto
+153.0,2024-02-13,9.658.699-4,Francisco Diaz,Maule,Parka Impermeable North Face,Moda,1.0,49990.0,8.8,entregado,2024-10-13,45590.880000000005,medio
+259.0,2024-06-25,13480606-3,Lucia Fernandez,Valparaiso,Polera Oversize Zara,Moda,4.0,29990.0,22.4,cancelado,,93088.96,medio
+255.0,2024-08-10,6.820.934-2,Paula Mendez,Maule,Disco SSD 500GB,Tecnologia,4.0,9990.0,16.1,entregado,2024-02-06,33526.44,bajo
+154.0,2024-09-04,20363287-1,Camila Sanchez,Coquimbo,Plancha a Vapor Philips,Hogar,3.0,9990.0,13.0,entregado,2024-02-09,26073.9,bajo
+127.0,2024-10-17,7910436,Ana Martinez,Maule,Licuadora Oster 600W,Hogar,1.0,14990.0,22.1,entregado,2024-04-08,11677.210000000001,medio
+39.0,2024-01-07,10133531-6,Catalina Nunez,Coquimbo,Vestido Floral H&M,Moda,6.0,199990.0,2.1,entregado,2024-08-03,1174741.26,alto
+276.0,2024-10-08,9876413,Isabela Reyes,Ohiggins,Jeans Skinny Levi's,Moda,4.0,9990.0,15.3,entregado,2024-12-22,33846.12,bajo
+223.0,2024-04-24,8952090-7,Antonella Bustos,Maule,Gorra New Era,Moda,6.0,14990.0,19.6,despachado,2024-06-06,72311.76000000001,medio
+67.0,2024-07-28,9.552.130-6,Sofia Castro,Metropolitana,Polera Oversize Zara,Tecnologia,8.0,199990.0,27.3,despachado,2024-03-12,1163141.8399999999,alto
+3.0,2024-07-12,7333883,Valentina Torres,Metropolitana,Purificador Aire Xiaomi,Hogar,1.0,29990.0,21.9,entregado,2024-10-09,23422.190000000002,medio
+77.0,2024-11-07,5204876-2,Ignacio Flores,Maule,Freidora de Aire Ultracomb,Hogar,10.0,149990.0,20.2,entregado,2024-12-21,1196920.2,alto
+37.0,2024-07-07,8627192-9,Renata Campos,Valparaiso,Polera Oversize Zara,Moda,4.0,149990.0,14.0,despachado,2024-11-06,515965.6,alto
+254.0,2024-06-13,7196869,Nicolas Alvarez,,Zapatillas Adidas Ultraboost,Moda,1.0,79990.0,8.9,entregado,2024-02-12,72870.89,alto
+131.0,2024-09-15,24567189-7,Cristobal Avila,Valparaiso,Parka Impermeable North Face,Moda,10.0,9990.0,3.4,entregado,2024-10-20,96503.4,bajo
+258.0,2024-11-27,24.217.247-9,Paula Mendez,,Freidora de Aire Ultracomb,Hogar,3.0,29990.0,8.9,cancelado,,81962.67,medio
+102.0,2024-12-19,6924617,Nicolas Alvarez,Araucania,Bolso Cuero Sintético,Moda,8.0,29990.0,18.1,entregado,2024-06-28,196494.47999999998,medio
+115.0,2024-07-06,23450142,Javiera Vega,Metropolitana,Disco SSD 500GB,Tecnologia,5.0,14990.0,21.8,entregado,2024-07-24,58610.9,medio
+116.0,2024-06-22,9.598.177-5,Sebastian Herrera,,Polera Oversize Zara,Moda,2.0,14990.0,11.8,entregado,2024-07-06,26442.36,medio
+187.0,2024-09-09,5802295,Sofia Castro,Coquimbo,Purificador Aire Xiaomi,Hogar,10.0,29990.0,7.3,entregado,2024-04-10,278007.3,medio
+202.0,2024-11-09,16637016-5,Nicolas Alvarez,,Purificador Aire Xiaomi,Hogar,3.0,4990.0,18.1,cancelado,,12260.429999999998,bajo
+97.0,2024-01-01,7270941,Sebastian Herrera,Ohiggins,Gorra New Era,Moda,4.0,149990.0,21.6,despachado,2024-06-29,470368.64,alto
+291.0,2024-05-16,22.479.701-7,Lucia Fernandez,Ohiggins,Webcam Logitech C920,Tecnologia,6.0,19990.0,9.5,despachado,2024-11-26,108545.7,medio
+248.0,2024-05-27,23526227-0,Catalina Nunez,Maule,Vestido Floral H&M,Moda,9.0,19990.0,23.5,entregado,2024-12-06,137631.15,medio
+228.0,2024-07-25,6253708,Francisco Diaz,Metropolitana,Jeans Skinny Levi's,Moda,8.0,39990.0,120.0,despachado,2024-04-26,-63983.999999999985,medio
+111.0,2024-09-04,19.750.712-6,Matias Silva,,Zapatillas Nike Air Max,Moda,9.0,79990.0,8.7,cancelado,,657277.8300000001,alto
+106.0,2024-03-21,11743782-2,Fernanda Pizarro,Maule,Lampara LED de Escritorio,Hogar,9.0,9990.0,16.3,cancelado,,75254.67,bajo
+271.0,2024-07-16,6309849,Alejandro Fuentes,Valparaiso,Parka Impermeable North Face,Moda,10.0,79990.0,17.7,despachado,2024-02-25,658317.7,alto
+84.0,2024-02-08,23941201,Daniela Rios,Valparaiso,Microondas Mabe 20L,Hogar,10.0,14990.0,4.6,entregado,,143004.6,medio
+29.0,2024-12-10,20281230,Ignacio Flores,Biobio,Perfume Hugo Boss,Moda,-3.0,39990.0,24.6,entregado,2024-04-25,-90457.38,medio
+91.0,2024-12-20,12970190,Camila Sanchez,Coquimbo,Jeans Skinny Levi's,Moda,7.0,149990.0,4.6,despachado,2024-11-15,1001633.22,alto
+114.0,2024-05-03,20790274,Juan Perez,Valparaiso,Cafetera De Longhi,Hogar,2.0,4990.0,28.4,entregado,,7145.679999999999,bajo
+208.0,2024-04-05,8244801,Sofia Castro,,Smart TV 43 LG,Tecnologia,3.0,49990.0,11.1,entregado,,133323.33000000002,medio
+41.0,2024-04-18,11410789-1,Catalina Nunez,,Lampara LED de Escritorio,Hogar,8.0,4990.0,25.5,despachado,2024-05-12,29740.4,bajo
+87.0,2024-09-25,6757095,Andres Vargas,Ohiggins,Jeans Skinny Levi's,Moda,4.0,4990.0,21.2,cancelado,,15728.480000000001,bajo
+130.0,2024-08-29,7.747.111-8,Sebastian Herrera,Coquimbo,Tablet Samsung A8,Tecnologia,6.0,149990.0,12.5,entregado,2024-10-02,787447.5,alto
+103.0,2024-11-07,17846461-9,Daniela Rios,Maule,Lampara LED de Escritorio,Hogar,3.0,99990.0,28.6,pendiente,,214178.58,alto
+267.0,2024-07-26,10556809-3,Sebastian Herrera,Biobio,Smart TV 43 LG,Tecnologia,7.0,29990.0,29.2,despachado,2024-06-25,148630.44,medio
+43.0,2024-05-08,11427048,Constanza Rojas,Valparaiso,Gorra New Era,Moda,6.0,39990.0,21.1,despachado,2024-03-02,189312.65999999997,medio
+27.0,2024-12-22,24.096.003-4,Paula Mendez,Biobio,Auriculares Sony WH1000,Moda,5.0,99990.0,20.0,despachado,2024-10-10,399960.0,alto
+110.0,2024-11-05,12.073.555-9,Daniela Rios,Biobio,Pendrive 64GB Kingston,Tecnologia,3.0,149990.0,5.1,entregado,2024-10-15,427021.52999999997,alto
+118.0,2024-08-01,24410377-9,Catalina Nunez,Ohiggins,Bolso Cuero Sintético,Moda,1.0,79990.0,-5.0,entregado,2024-06-06,83989.5,alto
+92.0,2024-08-28,17813512,Isabela Reyes,Coquimbo,Zapatillas Adidas Ultraboost,Moda,9.0,19990.0,7.2,cancelado,,166956.47999999998,medio
+148.0,2024-12-20,6.104.000-2,Juan Perez,Ohiggins,Purificador Aire Xiaomi,Hogar,9.0,9990.0,27.6,despachado,2024-08-31,65094.84,bajo
+216.0,2024-01-30,21949228,Renata Campos,Valparaiso,Perfume Hugo Boss,Moda,3.0,4990.0,5.8,entregado,2024-01-17,14101.74,bajo
+246.0,2024-09-30,6.899.341-3,Alejandro Fuentes,,Purificador Aire Xiaomi,Hogar,-1.0,149990.0,120.0,cancelado,,29997.999999999993,alto
+205.0,2024-06-22,19569347-2,Ana Martinez,Ohiggins,Plancha a Vapor Philips,Hogar,9.0,9990.0,28.3,cancelado,,64465.469999999994,bajo
+186.0,2024-01-24,20.325.858-0,Roberto Lopez,Araucania,Smart TV 43 LG,Tecnologia,1.0,199990.0,5.4,entregado,2024-02-05,189190.53999999998,alto
+219.0,2024-12-29,22.469.708-9,Ignacio Flores,Maule,Monitor Samsung 24,Tecnologia,10.0,29990.0,24.2,despachado,2024-05-20,227324.2,medio
+161.0,2024-06-27,8.861.620-0,Nicolas Alvarez,Araucania,Licuadora Oster 600W,Hogar,8.0,39990.0,23.5,entregado,,244738.80000000002,medio
+146.0,2024-05-03,18624019,Valentina Torres,Valparaiso,Vestido Floral H&M,Moda,2.0,14990.0,27.5,entregado,2024-11-13,21735.5,medio
+64.0,2024-03-08,17276141,Renata Campos,Metropolitana,Zapatillas Nike Air Max,Moda,8.0,29990.0,1.0,entregado,2024-05-31,237520.8,medio
+206.0,2024-10-03,6828879-5,Isabela Reyes,Biobio,Microondas Mabe 20L,Hogar,0.0,19990.0,20.9,entregado,2024-12-04,0.0,medio
+221.0,2024-01-14,24.194.558-3,Catalina Nunez,,Notebook Lenovo IdeaPad,Tecnologia,7.0,149990.0,19.8,entregado,2024-09-11,842043.8600000001,alto
+268.0,2024-03-01,24823653,Gabriel Molina,Maule,Bolso Cuero Sintético,Moda,3.0,19990.0,5.6,entregado,2024-04-27,56611.68,medio
+283.0,2024-05-15,7633605,Constanza Rojas,Valparaiso,Chaqueta Parka Columbia,Moda,4.0,79990.0,7.0,despachado,2024-04-27,297562.8,alto
+137.0,2024-06-13,23680360,Renata Campos,Valparaiso,Pendrive 64GB Kingston,Tecnologia,10.0,39990.0,17.9,entregado,2024-06-03,328317.89999999997,medio
+60.0,2024-03-15,17836056,Valentina Torres,Valparaiso,Notebook Lenovo IdeaPad,Tecnologia,1.0,39990.0,8.8,entregado,2024-09-28,36470.880000000005,medio
+213.0,2024-11-12,20.945.676-4,Juan Perez,Ohiggins,Perfume Hugo Boss,Moda,1.0,79990.0,5.2,entregado,2024-12-14,75830.51999999999,alto
+226.0,2024-07-15,22818537-3,Javiera Vega,Metropolitana,Vestido Floral H&M,Tecnologia,7.0,199990.0,12.1,cancelado,,1230538.47,alto
+133.0,2024-02-05,19.105.006-5,Matias Silva,Araucania,Lampara LED de Escritorio,Moda,9.0,9990.0,29.8,cancelado,,63116.82,bajo
+56.0,2024-09-04,13.012.984-9,Valentina Torres,Biobio,Perfume Hugo Boss,Moda,8.0,199990.0,26.0,entregado,2024-06-19,1183940.8,alto
+20.0,2024-06-24,8.097.022-K,Gabriel Molina,Valparaiso,Smart TV 43 LG,Tecnologia,5.0,14990.0,8.5,despachado,2024-12-17,68579.25,medio
+78.0,2024-02-16,15884483,Pedro Muñoz,Maule,Vestido Floral H&M,Moda,3.0,9990.0,22.2,cancelado,,23316.66,bajo
+196.0,2024-10-16,14.426.536-0,Sebastian Herrera,Ohiggins,Parka Impermeable North Face,Moda,9.0,79990.0,23.4,despachado,2024-06-13,551451.06,alto
+282.0,2024-05-14,24250601-4,Catalina Nunez,Valparaiso,Set Cuchillos Tramontina,Hogar,9.0,39990.0,16.1,entregado,,301964.49,medio
+136.0,2024-12-26,6893947,Camila Sanchez,Coquimbo,Mouse Inalambrico Logitech,Tecnologia,10.0,9990.0,1.0,entregado,2024-01-25,98901.0,bajo
+279.0,2024-12-26,16659329-4,Daniela Rios,Metropolitana,Vestido Floral H&M,Moda,10.0,49990.0,6.0,pendiente,,469906.0,medio
+158.0,2024-12-20,7851520-1,Javiera Vega,Araucania,Zapatillas Adidas Ultraboost,Moda,7.0,149990.0,16.0,cancelado,,881941.2,alto
+15.0,2024-08-20,11371915-4,Maria Gonzalez,Biobio,Aspiradora Robot Xiaomi,Hogar,7.0,14990.0,0.1,entregado,2024-08-04,104825.07,medio
+182.0,2024-01-30,9604063-0,Constanza Rojas,Valparaiso,Polera Oversize Zara,Moda,7.0,29990.0,120.0,entregado,2024-02-14,-41985.99999999999,medio
+299.0,2024-06-08,9.901.894-0,Alejandro Fuentes,Coquimbo,Mouse Inalambrico Logitech,Tecnologia,1.0,14990.0,14.8,despachado,2024-09-12,12771.48,medio
+107.0,2024-10-09,18783996,Pedro Muñoz,Valparaiso,Aspiradora Robot Xiaomi,Hogar,9.0,39990.0,17.2,entregado,2024-11-09,298005.48000000004,medio
+143.0,2024-12-16,16817071-2,Catalina Nunez,Biobio,Disco SSD 500GB,Tecnologia,4.0,149990.0,15.0,entregado,2024-05-11,509966.0,alto
+93.0,2024-09-03,7.814.382-2,Matias Silva,Coquimbo,Monitor Samsung 24,Tecnologia,3.0,149990.0,26.2,pendiente,,332077.86,alto
+16.0,2024-09-14,12892133-6,Cristobal Avila,Coquimbo,Gorra New Era,Moda,6.0,4990.0,1.7,entregado,2024-09-28,29431.02,bajo
+164.0,2024-10-27,24802764,Carlos Rodriguez,Metropolitana,Freidora de Aire Ultracomb,Hogar,6.0,199990.0,17.9,entregado,2024-06-27,985150.74,alto
+288.0,2024-09-06,13532545,Ana Martinez,,Plancha a Vapor Philips,Hogar,9.0,199990.0,16.0,despachado,2024-05-08,1511924.4,alto
+277.0,2024-07-15,19729457-0,Antonella Bustos,Araucania,Mouse Inalambrico Logitech,Tecnologia,4.0,29990.0,120.0,entregado,2024-11-10,-23991.999999999996,medio
+207.0,2024-04-15,20802273,Francisco Diaz,Valparaiso,Auriculares Sony WH1000,Tecnologia,10.0,199990.0,14.4,pendiente,,1711914.4,alto
+168.0,2024-04-21,13818615-5,Matias Silva,,Parka Impermeable North Face,Moda,1.0,99990.0,22.8,entregado,2024-02-22,77192.28,alto
+54.0,2024-08-24,18.941.542-7,Valentina Torres,Metropolitana,Vestido Floral H&M,Moda,4.0,9990.0,29.8,cancelado,,28051.92,bajo
+4.0,2024-07-05,10742460,Valentina Torres,,Hervidor Electrico Oster,Hogar,2.0,19990.0,11.4,entregado,2024-07-08,35422.28,medio
+19.0,2024-06-03,9506062-4,Cristobal Avila,Ohiggins,Webcam Logitech C920,Tecnologia,3.0,29990.0,13.1,entregado,2024-11-30,78183.93,medio
+280.0,2024-09-16,23.049.042-9,Tomas Espinoza,Metropolitana,Tablet Samsung A8,Hogar,10.0,49990.0,0.1,despachado,2024-10-13,499400.1,medio
+156.0,2024-06-15,23308274,Alejandro Fuentes,Araucania,Lampara LED de Escritorio,Hogar,8.0,29990.0,29.0,entregado,2024-05-23,170343.19999999998,medio
+57.0,2024-07-16,8367677-7,Sebastian Herrera,Maule,Aspiradora Robot Xiaomi,Hogar,0.0,39990.0,21.2,entregado,2024-11-29,0.0,medio
+273.0,2024-04-29,5238708,Ana Martinez,Coquimbo,Perfume Hugo Boss,Moda,7.0,9990.0,4.0,entregado,2024-02-12,67132.8,bajo
+13.0,2024-01-28,8666460-3,Roberto Lopez,Maule,Vestido Floral H&M,Moda,7.0,39990.0,12.3,cancelado,,245498.61,medio
+66.0,2024-12-10,23837705,Valentina Torres,Biobio,Aspiradora Robot Xiaomi,Hogar,9.0,29990.0,3.7,entregado,2024-10-26,259923.33,medio
+262.0,2024-09-02,14415908,Roberto Lopez,Araucania,Vestido Floral H&M,Moda,6.0,29990.0,4.0,entregado,2024-08-16,172742.4,medio
+180.0,2024-08-29,18.353.825-8,Nicolas Alvarez,Coquimbo,Purificador Aire Xiaomi,Tecnologia,6.0,49990.0,16.4,despachado,2024-02-07,250749.84000000003,medio
+160.0,2024-08-25,7880809,Carlos Rodriguez,Coquimbo,Gorra New Era,Moda,10.0,149990.0,105.0,entregado,2024-12-13,-74995.00000000007,alto
+239.0,2024-01-10,15220611,Roberto Lopez,Metropolitana,Cafetera De Longhi,Hogar,-1.0,39990.0,29.4,entregado,2024-07-25,-28232.94,medio
+126.0,2024-08-20,8779798-5,Catalina Nunez,Maule,Purificador Aire Xiaomi,Hogar,2.0,149990.0,27.9,despachado,2024-10-05,216285.58000000002,alto
+224.0,2024-09-13,11.720.838-5,Ignacio Flores,Metropolitana,Perfume Hugo Boss,Moda,10.0,149990.0,120.0,cancelado,,-299979.99999999994,alto
+241.0,2024-02-24,11574033-3,Renata Campos,Metropolitana,Lampara LED de Escritorio,Hogar,5.0,199990.0,16.4,entregado,2024-03-25,835958.2000000001,alto
+229.0,2024-11-30,10138092,Javiera Vega,Coquimbo,Perfume Hugo Boss,Tecnologia,10.0,4990.0,29.8,entregado,2024-01-11,35029.799999999996,bajo
+147.0,2024-01-17,7.774.485-7,Nicolas Alvarez,Metropolitana,Chaqueta Parka Columbia,Moda,2.0,29990.0,19.6,cancelado,,48223.920000000006,medio
+218.0,2024-05-17,9439724-K,Daniela Rios,Maule,Pendrive 64GB Kingston,Tecnologia,4.0,19990.0,19.4,entregado,2024-07-28,64447.76,medio
+26.0,2024-01-01,16.079.674-9,Javiera Vega,Ohiggins,Disco SSD 500GB,Tecnologia,4.0,149990.0,7.6,entregado,2024-10-02,554363.04,alto
+50.0,2024-11-05,10878425,Nicolas Alvarez,,Hervidor Electrico Oster,Tecnologia,1.0,149990.0,26.7,entregado,2024-01-14,109942.67,alto
+28.0,2024-12-01,10693898-K,Camila Sanchez,Biobio,Auriculares Sony WH1000,Tecnologia,4.0,29990.0,12.9,entregado,2024-08-26,104485.16,medio
+52.0,2024-07-25,22395939,Alejandro Fuentes,,Zapatillas Nike Air Max,Moda,2.0,79990.0,9.4,despachado,2024-09-20,144941.88,alto
+9.0,2024-03-23,15318461-3,Valentina Torres,Ohiggins,Auriculares Sony WH1000,Tecnologia,9.0,199990.0,18.3,despachado,2024-09-28,1470526.47,alto
+34.0,2024-05-19,9282478,Juan Perez,Araucania,Freidora de Aire Ultracomb,Hogar,10.0,99990.0,26.9,entregado,2024-09-05,730926.9000000001,alto
+214.0,2024-12-16,15766554,Isabela Reyes,Metropolitana,Licuadora Oster 600W,Hogar,5.0,29990.0,25.3,cancelado,,112012.65,medio
+12.0,2024-04-19,18658665-3,Ana Martinez,Ohiggins,Webcam Logitech C920,Tecnologia,9.0,9990.0,7.1,entregado,2024-03-08,83526.39,bajo
+18.0,2024-01-05,9444504-5,Cristobal Avila,Araucania,Bolso Cuero Sintético,Moda,6.0,79990.0,27.9,cancelado,,346036.74000000005,alto
+134.0,2024-03-01,5.762.870-4,Javiera Vega,Valparaiso,Set Cuchillos Tramontina,Hogar,9.0,9990.0,4.0,cancelado,,86313.59999999999,bajo
+25.0,2024-05-13,15525264,Sebastian Herrera,Valparaiso,Gorra New Era,Moda,0.0,49990.0,9.9,pendiente,,0.0,medio
+263.0,2024-10-24,20841179-K,Sofia Castro,Ohiggins,Hervidor Electrico Oster,Hogar,-3.0,9990.0,25.5,entregado,2024-07-26,-22327.65,bajo
+165.0,2024-03-13,10812795-8,Constanza Rojas,Ohiggins,Hervidor Electrico Oster,Hogar,5.0,19990.0,3.5,entregado,2024-07-17,96451.75,medio
+105.0,2024-11-09,19935453,Antonella Bustos,Biobio,Polera Oversize Zara,Moda,5.0,29990.0,21.1,despachado,2024-12-21,118310.54999999999,medio
+247.0,2024-05-31,23853731,Nicolas Alvarez,Valparaiso,Auriculares Sony WH1000,Tecnologia,5.0,199990.0,4.4,pendiente,,955952.2,alto
+73.0,2024-03-05,14895126,Daniela Rios,Biobio,Cafetera De Longhi,Hogar,2.0,9990.0,9.7,pendiente,,18041.94,bajo
+157.0,2024-12-20,19197818-6,Matias Silva,Metropolitana,Zapatillas Nike Air Max,Moda,4.0,79990.0,13.2,despachado,2024-07-28,277725.27999999997,alto
+40.0,2024-10-30,20593028,Javiera Vega,Biobio,Bolso Cuero Sintético,Moda,9.0,149990.0,23.2,entregado,2024-06-14,1036730.88,alto
+197.0,2024-05-16,10828808-2,Ignacio Flores,Ohiggins,Purificador Aire Xiaomi,Hogar,3.0,19990.0,3.0,entregado,2024-01-29,58170.9,medio
+175.0,2024-04-29,19933966-0,Tomas Espinoza,Araucania,Jeans Skinny Levi's,Tecnologia,7.0,4990.0,18.8,entregado,2024-12-01,28363.160000000003,bajo
+261.0,2024-06-05,15509744-3,Tomas Espinoza,Maule,Monitor Samsung 24,Tecnologia,8.0,39990.0,13.5,entregado,2024-10-26,276730.8,medio
+49.0,2024-06-06,14135066,Constanza Rojas,Ohiggins,Teclado Mecanico Redragon,Tecnologia,3.0,29990.0,2.1,despachado,2024-10-18,88080.63,medio
+100.0,2024-10-05,17.348.674-6,Catalina Nunez,Araucania,Monitor Samsung 24,Tecnologia,6.0,4990.0,150.0,entregado,2024-05-09,-14970.0,bajo
+210.0,2024-08-17,7.629.611-K,Roberto Lopez,,Perfume Hugo Boss,Moda,10.0,199990.0,4.4,cancelado,,1911904.4,alto
+138.0,2024-11-25,23049877-7,Antonella Bustos,Maule,Disco SSD 500GB,Tecnologia,8.0,99990.0,1.4,despachado,2024-07-14,788721.12,alto
+169.0,2024-11-08,24128520,Francisco Diaz,Maule,Monitor Samsung 24,Tecnologia,10.0,19990.0,20.7,cancelado,,158520.7,medio
+17.0,2024-12-02,13912544-6,Javiera Vega,Ohiggins,Chaqueta Parka Columbia,Moda,10.0,149990.0,1.2,pendiente,,1481901.2,alto
+185.0,2024-01-19,14101906,Sofia Castro,Ohiggins,Tablet Samsung A8,Tecnologia,7.0,39990.0,27.6,despachado,2024-12-31,202669.32,medio
+266.0,2024-11-20,17700973,Nicolas Alvarez,Coquimbo,Aspiradora Robot Xiaomi,Hogar,6.0,4990.0,3.1,cancelado,,29011.86,bajo
+253.0,2024-01-21,5.828.986-8,Sebastian Herrera,Maule,Microondas Mabe 20L,Hogar,10.0,199990.0,27.6,despachado,2024-06-13,1447927.5999999999,alto
+199.0,2024-01-01,15857838-0,Carlos Rodriguez,Biobio,Notebook Lenovo IdeaPad,Tecnologia,10.0,19990.0,6.6,entregado,2024-11-10,186706.59999999998,medio
+94.0,2024-08-18,12.534.270-0,Renata Campos,Biobio,Jeans Skinny Levi's,Moda,2.0,49990.0,28.4,despachado,2024-01-14,71585.68,medio
+220.0,2024-05-24,15025766-3,Sebastian Herrera,Biobio,Notebook Lenovo IdeaPad,Tecnologia,6.0,99990.0,16.8,entregado,2024-12-16,499150.07999999996,alto
+159.0,2024-12-12,13681819,Catalina Nunez,,Parka Impermeable North Face,Moda,10.0,14990.0,1.3,cancelado,,147951.3,medio
+227.0,2024-09-14,22.586.469-5,Cristobal Avila,Ohiggins,Monitor Samsung 24,Tecnologia,-3.0,19990.0,9.4,pendiente,,-54332.82,medio
+95.0,2024-08-29,5637664-4,Gabriel Molina,Maule,Webcam Logitech C920,Tecnologia,3.0,14990.0,1.1,cancelado,,44475.33,medio
+195.0,2024-09-02,23.242.091-0,Fernanda Pizarro,Metropolitana,Chaqueta Parka Columbia,Moda,5.0,199990.0,15.0,cancelado,,849957.5,alto
+1.0,2024-02-22,21956909-9,Paula Mendez,Maule,Polera Oversize Zara,Moda,5.0,4990.0,105.0,pendiente,,-1247.5000000000011,bajo
+233.0,2024-08-06,19.687.261-9,Cristobal Avila,Maule,Teclado Mecanico Redragon,Tecnologia,5.0,4990.0,10.8,entregado,2024-02-29,22255.4,bajo
+188.0,2024-06-06,8121456-0,Cristobal Avila,Metropolitana,Zapatillas Nike Air Max,Moda,1.0,39990.0,120.0,entregado,2024-04-15,-7997.999999999998,medio
+135.0,2024-08-23,19067380-9,Valentina Torres,Biobio,Gorra New Era,Moda,9.0,49990.0,11.4,despachado,2024-03-20,398620.26,medio
+152.0,2024-02-22,16875392-8,Daniela Rios,,Mouse Inalambrico Logitech,Tecnologia,5.0,4990.0,13.3,entregado,2024-02-14,21631.65,bajo
+231.0,2024-07-02,21128405-5,Juan Perez,Maule,Pendrive 64GB Kingston,Tecnologia,5.0,19990.0,24.9,cancelado,,75062.45,medio
+36.0,2024-04-24,10113103-3,Constanza Rojas,,Tablet Samsung A8,Tecnologia,9.0,4990.0,1.6,cancelado,,44191.44,bajo
+83.0,2024-02-09,9955648-3,Carlos Rodriguez,Ohiggins,Disco SSD 500GB,Tecnologia,6.0,29990.0,6.6,entregado,2024-11-20,168063.96,medio
+141.0,2024-05-02,22.207.267-7,Ana Martinez,Ohiggins,Tablet Samsung A8,Tecnologia,10.0,19990.0,21.1,entregado,2024-06-13,157721.09999999998,medio
+240.0,2024-08-20,8269443-K,Juan Perez,Biobio,Zapatillas Adidas Ultraboost,Moda,6.0,39990.0,24.8,entregado,,180434.88,medio
+166.0,2024-07-02,18.946.243-7,Lucia Fernandez,Metropolitana,Plancha a Vapor Philips,Moda,6.0,14990.0,25.3,entregado,,67185.18,medio
+179.0,2024-01-28,5.404.901-5,Carlos Rodriguez,Coquimbo,Perfume Hugo Boss,Moda,4.0,99990.0,22.4,despachado,2024-05-02,310368.96,alto
+96.0,2024-05-01,21771485,Juan Perez,Biobio,Smart TV 43 LG,Moda,9.0,149990.0,12.7,entregado,2024-03-03,1178471.43,alto
+98.0,2024-07-17,8478382,Alejandro Fuentes,Biobio,Gorra New Era,Moda,7.0,4990.0,26.2,pendiente,,25778.34,bajo
+251.0,2024-10-20,10347586,Paula Mendez,Ohiggins,Purificador Aire Xiaomi,Hogar,10.0,4990.0,25.3,despachado,2024-07-02,37275.3,bajo
+151.0,2024-02-13,10.176.673-6,Sofia Castro,Coquimbo,Vestido Floral H&M,Moda,3.0,49990.0,20.4,entregado,2024-11-12,119376.12000000001,medio
+284.0,2024-06-10,12452197-9,Maria Gonzalez,Araucania,Zapatillas Nike Air Max,Moda,1.0,99990.0,25.4,entregado,2024-10-21,74592.54,alto
+249.0,2024-12-26,11.492.705-4,Lucia Fernandez,Maule,Microondas Mabe 20L,Hogar,8.0,149990.0,24.9,cancelado,,901139.92,alto
+21.0,2024-05-14,10001431-8,Gabriel Molina,Valparaiso,Aspiradora Robot Xiaomi,Hogar,-1.0,4990.0,23.1,entregado,,-3837.31,bajo
+129.0,2024-12-17,12410470-3,Constanza Rojas,Ohiggins,Notebook Lenovo IdeaPad,Tecnologia,2.0,199990.0,14.0,despachado,2024-12-26,343982.8,alto
+69.0,2024-07-02,12117090,Daniela Rios,Metropolitana,Hervidor Electrico Oster,Hogar,6.0,199990.0,16.3,cancelado,,1004349.7799999999,alto
+184.0,2024-07-07,5086184-0,Valentina Torres,Valparaiso,Freidora de Aire Ultracomb,Hogar,1.0,39990.0,15.0,entregado,2024-05-10,33991.5,medio
+194.0,2024-01-16,9987242,Daniela Rios,Araucania,Teclado Mecanico Redragon,Tecnologia,7.0,149990.0,24.7,entregado,2024-12-15,790597.29,alto
+11.0,2024-03-02,6975475-3,Cristobal Avila,,Auriculares Sony WH1000,Tecnologia,6.0,49990.0,13.1,entregado,2024-04-25,260647.86,medio
+99.0,2024-03-30,20.357.178-0,Roberto Lopez,,Plancha a Vapor Philips,Hogar,6.0,4990.0,16.4,entregado,2024-12-16,25029.840000000004,bajo
+225.0,2024-11-19,10316200-7,Carlos Rodriguez,Valparaiso,Plancha a Vapor Philips,Hogar,3.0,39990.0,23.4,entregado,2024-06-09,91897.02,medio
+178.0,2024-03-12,5.900.077-K,Roberto Lopez,Valparaiso,Pendrive 64GB Kingston,Tecnologia,6.0,49990.0,28.9,despachado,2024-05-21,213257.34000000003,medio
+286.0,2024-05-17,17.249.984-6,Matias Silva,Araucania,Lampara LED de Escritorio,Hogar,5.0,149990.0,5.6,despachado,2024-11-09,707952.7999999999,alto
+120.0,2024-02-01,10811037,Andres Vargas,Maule,Disco SSD 500GB,Tecnologia,10.0,99990.0,27.6,cancelado,,723927.6,alto
+250.0,2024-01-21,20647483-2,Carlos Rodriguez,,Polera Oversize Zara,Moda,3.0,14990.0,22.1,pendiente,,35031.630000000005,medio
+55.0,2024-03-10,5086075,Camila Sanchez,Coquimbo,Freidora de Aire Ultracomb,Hogar,7.0,14990.0,5.7,entregado,2024-02-05,98948.98999999999,medio
+275.0,2024-10-11,8.995.855-3,Fernanda Pizarro,Araucania,Disco SSD 500GB,Tecnologia,9.0,99990.0,14.5,entregado,2024-05-09,769423.0499999999,alto
+79.0,2024-08-14,16582079-6,Camila Sanchez,Maule,Teclado Mecanico Redragon,Tecnologia,10.0,14990.0,1.5,pendiente,,147651.5,medio
+183.0,2024-05-17,24349219-K,Constanza Rojas,,Freidora de Aire Ultracomb,Hogar,-3.0,99990.0,5.0,pendiente,,-284971.5,alto
+296.0,2024-05-29,13385122,Catalina Nunez,Ohiggins,Tablet Samsung A8,Tecnologia,5.0,79990.0,0.3,entregado,2024-04-28,398750.15,alto
+31.0,2024-08-14,20101835-4,Gabriel Molina,Ohiggins,Tablet Samsung A8,Tecnologia,9.0,199990.0,29.6,entregado,2024-09-15,1267136.64,alto
+174.0,2024-12-18,7765574,Cristobal Avila,Valparaiso,Tablet Samsung A8,Tecnologia,1.0,79990.0,29.8,entregado,2024-11-28,56152.979999999996,alto
+47.0,2024-02-20,10.252.363-0,Matias Silva,Coquimbo,Vestido Floral H&M,Moda,10.0,29990.0,18.6,entregado,2024-04-16,244118.59999999998,medio
+256.0,2024-07-26,24649744,Antonella Bustos,Araucania,Pendrive 64GB Kingston,Tecnologia,5.0,19990.0,12.2,entregado,2024-06-10,87756.1,medio
+81.0,2024-09-13,7612635,Isabela Reyes,Ohiggins,Vestido Floral H&M,Moda,3.0,14990.0,105.0,entregado,2024-12-08,-2248.500000000002,medio
+128.0,2024-07-15,13.776.267-K,Tomas Espinoza,Valparaiso,Teclado Mecanico Redragon,Tecnologia,6.0,79990.0,28.1,pendiente,,345076.86,alto
+46.0,2024-02-13,20.116.756-7,Antonella Bustos,Valparaiso,Zapatillas Nike Air Max,Moda,3.0,14990.0,24.3,cancelado,,34042.29,medio
+191.0,2024-12-26,6.642.510-K,Francisco Diaz,Maule,Hervidor Electrico Oster,Hogar,3.0,9990.0,24.2,despachado,2024-11-04,22717.26,bajo
+80.0,2024-07-21,16009959-1,Constanza Rojas,Ohiggins,Perfume Hugo Boss,Tecnologia,9.0,79990.0,20.0,pendiente,,575928.0,alto
+244.0,2024-08-19,23381318,Catalina Nunez,Coquimbo,Chaqueta Parka Columbia,Moda,7.0,29990.0,28.9,cancelado,,149260.23,medio
+298.0,2024-11-14,9195619,Juan Perez,Araucania,Auriculares Sony WH1000,Tecnologia,8.0,9990.0,105.0,despachado,2024-04-06,-3996.0000000000036,bajo
+22.0,2024-07-05,16.867.485-8,Daniela Rios,Coquimbo,Purificador Aire Xiaomi,Hogar,3.0,99990.0,12.9,pendiente,,261273.87,alto
+5.0,2024-10-12,18460856-4,Roberto Lopez,Valparaiso,Tablet Samsung A8,Tecnologia,5.0,49990.0,29.7,entregado,2024-12-16,175714.85,medio
+125.0,2024-01-20,11251580-4,Juan Perez,Valparaiso,Pendrive 64GB Kingston,Tecnologia,9.0,19990.0,-5.0,cancelado,,188905.5,medio
+203.0,2024-02-04,18.892.177-7,Sofia Castro,Biobio,Webcam Logitech C920,Tecnologia,-3.0,79990.0,8.0,despachado,2024-05-11,-220772.40000000002,alto
+62.0,2024-09-04,18281036-4,Ignacio Flores,,Licuadora Oster 600W,Hogar,5.0,79990.0,6.0,entregado,2024-05-01,375953.0,alto
+300.0,2024-05-08,19863302,Maria Gonzalez,Coquimbo,Hervidor Electrico Oster,Hogar,8.0,99990.0,5.4,cancelado,,756724.32,alto
+142.0,2024-10-15,14905009-2,Andres Vargas,Coquimbo,Zapatillas Adidas Ultraboost,Moda,4.0,39990.0,11.1,entregado,2024-04-23,142204.44,medio
+86.0,2024-01-22,8472946,Pedro Muñoz,,Pendrive 64GB Kingston,Tecnologia,9.0,149990.0,11.5,entregado,2024-10-19,1194670.35,alto
+8.0,2024-06-23,21796882,Renata Campos,Metropolitana,Mouse Inalambrico Logitech,Tecnologia,9.0,199990.0,22.5,entregado,2024-05-30,1394930.25,alto
+167.0,2024-10-02,24.217.094-1,Alejandro Fuentes,Biobio,Pendrive 64GB Kingston,Tecnologia,4.0,4990.0,8.8,despachado,2024-03-27,18203.52,bajo

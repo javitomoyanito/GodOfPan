@@ -1,0 +1,19 @@
+ETAPA 1: INGESTA
+Fecha de carga: 2026-07-09 16:40:27.348182
+Archivo cargado: ventas_datamart.csv
+Registros: 316
+Columnas: 12
+Nulos por columna:
+id_pedido           1
+fecha_pedido        1
+rut_cliente         1
+nombre_cliente      1
+region             35
+producto            1
+categoria           1
+cantidad            1
+precio_unitario     1
+descuento_pct       1
+estado_pedido       1
+fecha_despacho     95
+dtype: int64

@@ -1,0 +1,8 @@
+ETAPA 3: VALIDACIÓN
+Fecha: 2026-07-09 16:40:27.463104
+Registros válidos: 230
+Registros inválidos: 71
+Cantidad <= 0: 17
+Precio <= 0: 0
+Descuento fuera de rango: 17
+Entregado sin despacho: 12
