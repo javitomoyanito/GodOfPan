@@ -279,6 +279,8 @@ def ejecutar_limpieza(df_original: pd.DataFrame) -> pd.DataFrame:
     df["segmento_precio"] = df["precio_unitario"].apply(
         asignar_segmento
     )
+    # Ordenar por ID de pedido
+    df = df.sort_values(by="id_pedido").reset_index(drop=True)
 
     df.to_csv(
         RUTA_CLEAN,
