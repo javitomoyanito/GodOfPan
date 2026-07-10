@@ -1,71 +1,71 @@
 ﻿id_pedido,fecha_pedido,rut_cliente,nombre_cliente,region,producto,categoria,cantidad,precio_unitario,descuento_pct,estado_pedido,fecha_despacho,total_venta,segmento_precio,motivos_error
-204,2024-12-17,7489752-5,Cristobal Avila,Valparaiso,Vestido Floral H&M,Moda,-1.0,9990,23.7,entregado,2024-03-24,-7622.37,Bajo,cantidad debe ser mayor que cero
-173,2024-10-22,20421005-0,Renata Campos,,Tablet Samsung A8,Tecnologia,6.0,29990,24.9,despachado,2024-10-16,135134.94,Medio,region obligatoria
-61,2024-05-10,16595258-9,Nicolas Alvarez,,Purificador Aire Xiaomi,Hogar,4.0,14990,13.8,despachado,2024-01-05,51685.52,Medio,region obligatoria
-53,2024-05-27,10314289,Juan Perez,Araucania,Cafetera De Longhi,Hogar,0.0,4990,8.0,pendiente,,0.0,Bajo,cantidad debe ser mayor que cero
-295,2024-06-06,16538863-4,Paula Mendez,Biobio,Lampara LED de Escritorio,Hogar,0.0,79990,6.8,pendiente,,0.0,Alto,cantidad debe ser mayor que cero
-44,2024-04-09,6829589-8,Tomas Espinoza,,Purificador Aire Xiaomi,Hogar,0.0,99990,8.5,pendiente,,0.0,Alto,cantidad debe ser mayor que cero | region obligatoria
-104,2024-03-11,11242736,Diego Morales,,Tablet Samsung A8,Tecnologia,6.0,39990,13.3,pendiente,,208027.98,Medio,region obligatoria
-144,2024-09-25,12765616,Carlos Rodriguez,Metropolitana,Zapatillas Adidas Ultraboost,Moda,9.0,14990,105.0,cancelado,,-6745.5,Medio,descuento_pct debe estar entre 0 y 100
-192,2024-02-18,17490293,Nicolas Alvarez,Araucania,Notebook Lenovo IdeaPad,Tecnologia,-1.0,49990,16.7,entregado,2024-02-22,-41641.67,Medio,cantidad debe ser mayor que cero
-108,2024-06-25,6859346,Carlos Rodriguez,Valparaiso,Webcam Logitech C920,Tecnologia,2.0,199990,13.5,entregado,,345982.7,Alto,pedido entregado sin fecha de despacho
-45,2024-08-13,21500276,Nicolas Alvarez,,Tablet Samsung A8,Tecnologia,1.0,9990,17.2,entregado,,8271.72,Bajo,region obligatoria | pedido entregado sin fecha de despacho
-285,2024-12-17,12071676,Ana Martinez,,Vestido Floral H&M,Moda,9.0,79990,1.0,despachado,2024-03-30,712710.9,Alto,region obligatoria
-272,2024-01-01,21177378-6,Ignacio Flores,Coquimbo,Mouse Inalambrico Logitech,Tecnologia,3.0,79990,-5.0,entregado,,251968.5,Alto,descuento_pct debe estar entre 0 y 100 | pedido entregado sin fecha de despacho
-85,2024-06-04,17372780-4,Nicolas Alvarez,,Lampara LED de Escritorio,Hogar,8.0,14990,2.0,entregado,2024-05-20,117521.6,Medio,region obligatoria
-33,2024-04-15,16803066-4,Antonella Bustos,Coquimbo,Disco SSD 500GB,Tecnologia,6.0,49990,-5.0,entregado,2024-08-03,314937.0,Medio,descuento_pct debe estar entre 0 y 100
-252,2024-06-18,5295403,Sofia Castro,Biobio,Hervidor Electrico Oster,Hogar,4.0,39990,26.5,entregado,,117570.6,Medio,pedido entregado sin fecha de despacho
-238,2024-06-18,19904505-9,Pedro Muñoz,,Cafetera De Longhi,Hogar,2.0,14990,22.5,despachado,2024-01-26,23234.5,Medio,region obligatoria
-71,2024-01-14,7132653-7,Alejandro Fuentes,Valparaiso,Teclado Mecanico Redragon,Tecnologia,-3.0,99990,-5.0,pendiente,,-314968.5,Alto,cantidad debe ser mayor que cero | descuento_pct debe estar entre 0 y 100
-145,2024-12-07,14218769-8,Juan Perez,,Monitor Samsung 24,Tecnologia,8.0,99990,11.2,entregado,2024-09-04,710328.96,Alto,region obligatoria
-254,2024-06-13,7196869,Nicolas Alvarez,,Zapatillas Adidas Ultraboost,Moda,1.0,79990,8.9,entregado,2024-02-12,72870.89,Alto,region obligatoria
-258,2024-11-27,24217247-9,Paula Mendez,,Freidora de Aire Ultracomb,Hogar,3.0,29990,8.9,cancelado,,81962.67,Medio,region obligatoria
-116,2024-06-22,9598177-5,Sebastian Herrera,,Polera Oversize Zara,Moda,2.0,14990,11.8,entregado,2024-07-06,26442.36,Medio,region obligatoria
-202,2024-11-09,16637016-5,Nicolas Alvarez,,Purificador Aire Xiaomi,Hogar,3.0,4990,18.1,cancelado,,12260.43,Bajo,region obligatoria
-228,2024-07-25,6253708,Francisco Diaz,Metropolitana,Jeans Skinny Levi's,Moda,8.0,39990,120.0,despachado,2024-04-26,-63984.0,Medio,descuento_pct debe estar entre 0 y 100
-111,2024-09-04,19750712-6,Matias Silva,,Zapatillas Nike Air Max,Moda,9.0,79990,8.7,cancelado,,657277.83,Alto,region obligatoria
-84,2024-02-08,23941201,Daniela Rios,Valparaiso,Microondas Mabe 20L,Hogar,10.0,14990,4.6,entregado,,143004.6,Medio,pedido entregado sin fecha de despacho
-29,2024-12-10,20281230,Ignacio Flores,Biobio,Perfume Hugo Boss,Moda,-3.0,39990,24.6,entregado,2024-04-25,-90457.38,Medio,cantidad debe ser mayor que cero
-114,2024-05-03,20790274,Juan Perez,Valparaiso,Cafetera De Longhi,Hogar,2.0,4990,28.4,entregado,,7145.68,Bajo,pedido entregado sin fecha de despacho
-208,2024-04-05,8244801,Sofia Castro,,Smart TV 43 LG,Tecnologia,3.0,49990,11.1,entregado,,133323.33,Medio,region obligatoria | pedido entregado sin fecha de despacho
-41,2024-04-18,11410789-1,Catalina Nunez,,Lampara LED de Escritorio,Hogar,8.0,4990,25.5,despachado,2024-05-12,29740.4,Bajo,region obligatoria
-118,2024-08-01,24410377-9,Catalina Nunez,OHiggins,Bolso Cuero Sintético,Moda,1.0,79990,-5.0,entregado,2024-06-06,83989.5,Alto,descuento_pct debe estar entre 0 y 100
-246,2024-09-30,6899341-3,Alejandro Fuentes,,Purificador Aire Xiaomi,Hogar,-1.0,149990,120.0,cancelado,,29998.0,Alto,cantidad debe ser mayor que cero | descuento_pct debe estar entre 0 y 100 | region obligatoria
-161,2024-06-27,8861620-0,Nicolas Alvarez,Araucania,Licuadora Oster 600W,Hogar,8.0,39990,23.5,entregado,,244738.8,Medio,pedido entregado sin fecha de despacho
-206,2024-10-03,6828879-5,Isabela Reyes,Biobio,Microondas Mabe 20L,Hogar,0.0,19990,20.9,entregado,2024-12-04,0.0,Medio,cantidad debe ser mayor que cero
-221,2024-01-14,24194558-3,Catalina Nunez,,Notebook Lenovo IdeaPad,Tecnologia,7.0,149990,19.8,entregado,2024-09-11,842043.86,Alto,region obligatoria
-282,2024-05-14,24250601-4,Catalina Nunez,Valparaiso,Set Cuchillos Tramontina,Hogar,9.0,39990,16.1,entregado,,301964.49,Medio,pedido entregado sin fecha de despacho
-182,2024-01-30,9604063-0,Constanza Rojas,Valparaiso,Polera Oversize Zara,Moda,7.0,29990,120.0,entregado,2024-02-14,-41986.0,Medio,descuento_pct debe estar entre 0 y 100
-288,2024-09-06,13532545,Ana Martinez,,Plancha a Vapor Philips,Hogar,9.0,199990,16.0,despachado,2024-05-08,1511924.4,Alto,region obligatoria
-277,2024-07-15,19729457-0,Antonella Bustos,Araucania,Mouse Inalambrico Logitech,Tecnologia,4.0,29990,120.0,entregado,2024-11-10,-23992.0,Medio,descuento_pct debe estar entre 0 y 100
-168,2024-04-21,13818615-5,Matias Silva,,Parka Impermeable North Face,Moda,1.0,99990,22.8,entregado,2024-02-22,77192.28,Alto,region obligatoria
+1,2024-02-22,21956909-9,Paula Mendez,Maule,Polera Oversize Zara,Moda,5.0,4990,105.0,pendiente,,-1247.5,Bajo,descuento_pct debe estar entre 0 y 100
 4,2024-07-05,10742460,Valentina Torres,,Hervidor Electrico Oster,Hogar,2.0,19990,11.4,entregado,2024-07-08,35422.28,Medio,region obligatoria
-57,2024-07-16,8367677-7,Sebastian Herrera,Maule,Aspiradora Robot Xiaomi,Hogar,0.0,39990,21.2,entregado,2024-11-29,0.0,Medio,cantidad debe ser mayor que cero
-160,2024-08-25,7880809,Carlos Rodriguez,Coquimbo,Gorra New Era,Moda,10.0,149990,105.0,entregado,2024-12-13,-74995.0,Alto,descuento_pct debe estar entre 0 y 100
-239,2024-01-10,15220611,Roberto Lopez,Metropolitana,Cafetera De Longhi,Hogar,-1.0,39990,29.4,entregado,2024-07-25,-28232.94,Medio,cantidad debe ser mayor que cero
-224,2024-09-13,11720838-5,Ignacio Flores,Metropolitana,Perfume Hugo Boss,Moda,10.0,149990,120.0,cancelado,,-299980.0,Alto,descuento_pct debe estar entre 0 y 100
+11,2024-03-02,6975475-3,Cristobal Avila,,Auriculares Sony WH1000,Tecnologia,6.0,49990,13.1,entregado,2024-04-25,260647.86,Medio,region obligatoria
+21,2024-05-14,10001431-8,Gabriel Molina,Valparaiso,Aspiradora Robot Xiaomi,Hogar,-1.0,4990,23.1,entregado,,-3837.31,Bajo,cantidad debe ser mayor que cero | pedido entregado sin fecha de despacho
+25,2024-05-13,15525264,Sebastian Herrera,Valparaiso,Gorra New Era,Moda,0.0,49990,9.9,pendiente,,0.0,Medio,cantidad debe ser mayor que cero
+29,2024-12-10,20281230,Ignacio Flores,Biobio,Perfume Hugo Boss,Moda,-3.0,39990,24.6,entregado,2024-04-25,-90457.38,Medio,cantidad debe ser mayor que cero
+33,2024-04-15,16803066-4,Antonella Bustos,Coquimbo,Disco SSD 500GB,Tecnologia,6.0,49990,-5.0,entregado,2024-08-03,314937.0,Medio,descuento_pct debe estar entre 0 y 100
+36,2024-04-24,10113103-3,Constanza Rojas,,Tablet Samsung A8,Tecnologia,9.0,4990,1.6,cancelado,,44191.44,Bajo,region obligatoria
+41,2024-04-18,11410789-1,Catalina Nunez,,Lampara LED de Escritorio,Hogar,8.0,4990,25.5,despachado,2024-05-12,29740.4,Bajo,region obligatoria
+44,2024-04-09,6829589-8,Tomas Espinoza,,Purificador Aire Xiaomi,Hogar,0.0,99990,8.5,pendiente,,0.0,Alto,cantidad debe ser mayor que cero | region obligatoria
+45,2024-08-13,21500276,Nicolas Alvarez,,Tablet Samsung A8,Tecnologia,1.0,9990,17.2,entregado,,8271.72,Bajo,region obligatoria | pedido entregado sin fecha de despacho
 50,2024-11-05,10878425,Nicolas Alvarez,,Hervidor Electrico Oster,Tecnologia,1.0,149990,26.7,entregado,2024-01-14,109942.67,Alto,region obligatoria
 52,2024-07-25,22395939,Alejandro Fuentes,,Zapatillas Nike Air Max,Moda,2.0,79990,9.4,despachado,2024-09-20,144941.88,Alto,region obligatoria
-25,2024-05-13,15525264,Sebastian Herrera,Valparaiso,Gorra New Era,Moda,0.0,49990,9.9,pendiente,,0.0,Medio,cantidad debe ser mayor que cero
-263,2024-10-24,20841179-K,Sofia Castro,OHiggins,Hervidor Electrico Oster,Hogar,-3.0,9990,25.5,entregado,2024-07-26,-22327.65,Bajo,cantidad debe ser mayor que cero
-100,2024-10-05,17348674-6,Catalina Nunez,Araucania,Monitor Samsung 24,Tecnologia,6.0,4990,150.0,entregado,2024-05-09,-14970.0,Bajo,descuento_pct debe estar entre 0 y 100
-210,2024-08-17,7629611-K,Roberto Lopez,,Perfume Hugo Boss,Moda,10.0,199990,4.4,cancelado,,1911904.4,Alto,region obligatoria
-159,2024-12-12,13681819,Catalina Nunez,,Parka Impermeable North Face,Moda,10.0,14990,1.3,cancelado,,147951.3,Medio,region obligatoria
-227,2024-09-14,22586469-5,Cristobal Avila,OHiggins,Monitor Samsung 24,Tecnologia,-3.0,19990,9.4,pendiente,,-54332.82,Medio,cantidad debe ser mayor que cero
-1,2024-02-22,21956909-9,Paula Mendez,Maule,Polera Oversize Zara,Moda,5.0,4990,105.0,pendiente,,-1247.5,Bajo,descuento_pct debe estar entre 0 y 100
-188,2024-06-06,8121456-0,Cristobal Avila,Metropolitana,Zapatillas Nike Air Max,Moda,1.0,39990,120.0,entregado,2024-04-15,-7998.0,Medio,descuento_pct debe estar entre 0 y 100
-152,2024-02-22,16875392-8,Daniela Rios,,Mouse Inalambrico Logitech,Tecnologia,5.0,4990,13.3,entregado,2024-02-14,21631.65,Bajo,region obligatoria
-36,2024-04-24,10113103-3,Constanza Rojas,,Tablet Samsung A8,Tecnologia,9.0,4990,1.6,cancelado,,44191.44,Bajo,region obligatoria
-240,2024-08-20,8269443-K,Juan Perez,Biobio,Zapatillas Adidas Ultraboost,Moda,6.0,39990,24.8,entregado,,180434.88,Medio,pedido entregado sin fecha de despacho
-166,2024-07-02,18946243-7,Lucia Fernandez,Metropolitana,Plancha a Vapor Philips,Moda,6.0,14990,25.3,entregado,,67185.18,Medio,pedido entregado sin fecha de despacho
-21,2024-05-14,10001431-8,Gabriel Molina,Valparaiso,Aspiradora Robot Xiaomi,Hogar,-1.0,4990,23.1,entregado,,-3837.31,Bajo,cantidad debe ser mayor que cero | pedido entregado sin fecha de despacho
-11,2024-03-02,6975475-3,Cristobal Avila,,Auriculares Sony WH1000,Tecnologia,6.0,49990,13.1,entregado,2024-04-25,260647.86,Medio,region obligatoria
-99,2024-03-30,20357178-0,Roberto Lopez,,Plancha a Vapor Philips,Hogar,6.0,4990,16.4,entregado,2024-12-16,25029.84,Bajo,region obligatoria
-250,2024-01-21,20647483-2,Carlos Rodriguez,,Polera Oversize Zara,Moda,3.0,14990,22.1,pendiente,,35031.63,Medio,region obligatoria
-183,2024-05-17,24349219-K,Constanza Rojas,,Freidora de Aire Ultracomb,Hogar,-3.0,99990,5.0,pendiente,,-284971.5,Alto,cantidad debe ser mayor que cero | region obligatoria
-81,2024-09-13,7612635,Isabela Reyes,OHiggins,Vestido Floral H&M,Moda,3.0,14990,105.0,entregado,2024-12-08,-2248.5,Medio,descuento_pct debe estar entre 0 y 100
-298,2024-11-14,9195619,Juan Perez,Araucania,Auriculares Sony WH1000,Tecnologia,8.0,9990,105.0,despachado,2024-04-06,-3996.0,Bajo,descuento_pct debe estar entre 0 y 100
-125,2024-01-20,11251580-4,Juan Perez,Valparaiso,Pendrive 64GB Kingston,Tecnologia,9.0,19990,-5.0,cancelado,,188905.5,Medio,descuento_pct debe estar entre 0 y 100
-203,2024-02-04,18892177-7,Sofia Castro,Biobio,Webcam Logitech C920,Tecnologia,-3.0,79990,8.0,despachado,2024-05-11,-220772.4,Alto,cantidad debe ser mayor que cero
+53,2024-05-27,10314289,Juan Perez,Araucania,Cafetera De Longhi,Hogar,0.0,4990,8.0,pendiente,,0.0,Bajo,cantidad debe ser mayor que cero
+57,2024-07-16,8367677-7,Sebastian Herrera,Maule,Aspiradora Robot Xiaomi,Hogar,0.0,39990,21.2,entregado,2024-11-29,0.0,Medio,cantidad debe ser mayor que cero
+61,2024-05-10,16595258-9,Nicolas Alvarez,,Purificador Aire Xiaomi,Hogar,4.0,14990,13.8,despachado,2024-01-05,51685.52,Medio,region obligatoria
 62,2024-09-04,18281036-4,Ignacio Flores,,Licuadora Oster 600W,Hogar,5.0,79990,6.0,entregado,2024-05-01,375953.0,Alto,region obligatoria
+71,2024-01-14,7132653-7,Alejandro Fuentes,Valparaiso,Teclado Mecanico Redragon,Tecnologia,-3.0,99990,-5.0,pendiente,,-314968.5,Alto,cantidad debe ser mayor que cero | descuento_pct debe estar entre 0 y 100
+81,2024-09-13,7612635,Isabela Reyes,OHiggins,Vestido Floral H&M,Moda,3.0,14990,105.0,entregado,2024-12-08,-2248.5,Medio,descuento_pct debe estar entre 0 y 100
+84,2024-02-08,23941201,Daniela Rios,Valparaiso,Microondas Mabe 20L,Hogar,10.0,14990,4.6,entregado,,143004.6,Medio,pedido entregado sin fecha de despacho
+85,2024-06-04,17372780-4,Nicolas Alvarez,,Lampara LED de Escritorio,Hogar,8.0,14990,2.0,entregado,2024-05-20,117521.6,Medio,region obligatoria
 86,2024-01-22,8472946,Pedro Muñoz,,Pendrive 64GB Kingston,Tecnologia,9.0,149990,11.5,entregado,2024-10-19,1194670.35,Alto,region obligatoria
+99,2024-03-30,20357178-0,Roberto Lopez,,Plancha a Vapor Philips,Hogar,6.0,4990,16.4,entregado,2024-12-16,25029.84,Bajo,region obligatoria
+100,2024-10-05,17348674-6,Catalina Nunez,Araucania,Monitor Samsung 24,Tecnologia,6.0,4990,150.0,entregado,2024-05-09,-14970.0,Bajo,descuento_pct debe estar entre 0 y 100
+104,2024-03-11,11242736,Diego Morales,,Tablet Samsung A8,Tecnologia,6.0,39990,13.3,pendiente,,208027.98,Medio,region obligatoria
+108,2024-06-25,6859346,Carlos Rodriguez,Valparaiso,Webcam Logitech C920,Tecnologia,2.0,199990,13.5,entregado,,345982.7,Alto,pedido entregado sin fecha de despacho
+111,2024-09-04,19750712-6,Matias Silva,,Zapatillas Nike Air Max,Moda,9.0,79990,8.7,cancelado,,657277.83,Alto,region obligatoria
+114,2024-05-03,20790274,Juan Perez,Valparaiso,Cafetera De Longhi,Hogar,2.0,4990,28.4,entregado,,7145.68,Bajo,pedido entregado sin fecha de despacho
+116,2024-06-22,9598177-5,Sebastian Herrera,,Polera Oversize Zara,Moda,2.0,14990,11.8,entregado,2024-07-06,26442.36,Medio,region obligatoria
+118,2024-08-01,24410377-9,Catalina Nunez,OHiggins,Bolso Cuero Sintético,Moda,1.0,79990,-5.0,entregado,2024-06-06,83989.5,Alto,descuento_pct debe estar entre 0 y 100
+125,2024-01-20,11251580-4,Juan Perez,Valparaiso,Pendrive 64GB Kingston,Tecnologia,9.0,19990,-5.0,cancelado,,188905.5,Medio,descuento_pct debe estar entre 0 y 100
+144,2024-09-25,12765616,Carlos Rodriguez,Metropolitana,Zapatillas Adidas Ultraboost,Moda,9.0,14990,105.0,cancelado,,-6745.5,Medio,descuento_pct debe estar entre 0 y 100
+145,2024-12-07,14218769-8,Juan Perez,,Monitor Samsung 24,Tecnologia,8.0,99990,11.2,entregado,2024-09-04,710328.96,Alto,region obligatoria
+152,2024-02-22,16875392-8,Daniela Rios,,Mouse Inalambrico Logitech,Tecnologia,5.0,4990,13.3,entregado,2024-02-14,21631.65,Bajo,region obligatoria
+159,2024-12-12,13681819,Catalina Nunez,,Parka Impermeable North Face,Moda,10.0,14990,1.3,cancelado,,147951.3,Medio,region obligatoria
+160,2024-08-25,7880809,Carlos Rodriguez,Coquimbo,Gorra New Era,Moda,10.0,149990,105.0,entregado,2024-12-13,-74995.0,Alto,descuento_pct debe estar entre 0 y 100
+161,2024-06-27,8861620-0,Nicolas Alvarez,Araucania,Licuadora Oster 600W,Hogar,8.0,39990,23.5,entregado,,244738.8,Medio,pedido entregado sin fecha de despacho
+166,2024-07-02,18946243-7,Lucia Fernandez,Metropolitana,Plancha a Vapor Philips,Moda,6.0,14990,25.3,entregado,,67185.18,Medio,pedido entregado sin fecha de despacho
+168,2024-04-21,13818615-5,Matias Silva,,Parka Impermeable North Face,Moda,1.0,99990,22.8,entregado,2024-02-22,77192.28,Alto,region obligatoria
+173,2024-10-22,20421005-0,Renata Campos,,Tablet Samsung A8,Tecnologia,6.0,29990,24.9,despachado,2024-10-16,135134.94,Medio,region obligatoria
+182,2024-01-30,9604063-0,Constanza Rojas,Valparaiso,Polera Oversize Zara,Moda,7.0,29990,120.0,entregado,2024-02-14,-41986.0,Medio,descuento_pct debe estar entre 0 y 100
+183,2024-05-17,24349219-K,Constanza Rojas,,Freidora de Aire Ultracomb,Hogar,-3.0,99990,5.0,pendiente,,-284971.5,Alto,cantidad debe ser mayor que cero | region obligatoria
+188,2024-06-06,8121456-0,Cristobal Avila,Metropolitana,Zapatillas Nike Air Max,Moda,1.0,39990,120.0,entregado,2024-04-15,-7998.0,Medio,descuento_pct debe estar entre 0 y 100
+192,2024-02-18,17490293,Nicolas Alvarez,Araucania,Notebook Lenovo IdeaPad,Tecnologia,-1.0,49990,16.7,entregado,2024-02-22,-41641.67,Medio,cantidad debe ser mayor que cero
+202,2024-11-09,16637016-5,Nicolas Alvarez,,Purificador Aire Xiaomi,Hogar,3.0,4990,18.1,cancelado,,12260.43,Bajo,region obligatoria
+203,2024-02-04,18892177-7,Sofia Castro,Biobio,Webcam Logitech C920,Tecnologia,-3.0,79990,8.0,despachado,2024-05-11,-220772.4,Alto,cantidad debe ser mayor que cero
+204,2024-12-17,7489752-5,Cristobal Avila,Valparaiso,Vestido Floral H&M,Moda,-1.0,9990,23.7,entregado,2024-03-24,-7622.37,Bajo,cantidad debe ser mayor que cero
+206,2024-10-03,6828879-5,Isabela Reyes,Biobio,Microondas Mabe 20L,Hogar,0.0,19990,20.9,entregado,2024-12-04,0.0,Medio,cantidad debe ser mayor que cero
+208,2024-04-05,8244801,Sofia Castro,,Smart TV 43 LG,Tecnologia,3.0,49990,11.1,entregado,,133323.33,Medio,region obligatoria | pedido entregado sin fecha de despacho
+210,2024-08-17,7629611-K,Roberto Lopez,,Perfume Hugo Boss,Moda,10.0,199990,4.4,cancelado,,1911904.4,Alto,region obligatoria
+221,2024-01-14,24194558-3,Catalina Nunez,,Notebook Lenovo IdeaPad,Tecnologia,7.0,149990,19.8,entregado,2024-09-11,842043.86,Alto,region obligatoria
+224,2024-09-13,11720838-5,Ignacio Flores,Metropolitana,Perfume Hugo Boss,Moda,10.0,149990,120.0,cancelado,,-299980.0,Alto,descuento_pct debe estar entre 0 y 100
+227,2024-09-14,22586469-5,Cristobal Avila,OHiggins,Monitor Samsung 24,Tecnologia,-3.0,19990,9.4,pendiente,,-54332.82,Medio,cantidad debe ser mayor que cero
+228,2024-07-25,6253708,Francisco Diaz,Metropolitana,Jeans Skinny Levi's,Moda,8.0,39990,120.0,despachado,2024-04-26,-63984.0,Medio,descuento_pct debe estar entre 0 y 100
+238,2024-06-18,19904505-9,Pedro Muñoz,,Cafetera De Longhi,Hogar,2.0,14990,22.5,despachado,2024-01-26,23234.5,Medio,region obligatoria
+239,2024-01-10,15220611,Roberto Lopez,Metropolitana,Cafetera De Longhi,Hogar,-1.0,39990,29.4,entregado,2024-07-25,-28232.94,Medio,cantidad debe ser mayor que cero
+240,2024-08-20,8269443-K,Juan Perez,Biobio,Zapatillas Adidas Ultraboost,Moda,6.0,39990,24.8,entregado,,180434.88,Medio,pedido entregado sin fecha de despacho
+246,2024-09-30,6899341-3,Alejandro Fuentes,,Purificador Aire Xiaomi,Hogar,-1.0,149990,120.0,cancelado,,29998.0,Alto,cantidad debe ser mayor que cero | descuento_pct debe estar entre 0 y 100 | region obligatoria
+250,2024-01-21,20647483-2,Carlos Rodriguez,,Polera Oversize Zara,Moda,3.0,14990,22.1,pendiente,,35031.63,Medio,region obligatoria
+252,2024-06-18,5295403,Sofia Castro,Biobio,Hervidor Electrico Oster,Hogar,4.0,39990,26.5,entregado,,117570.6,Medio,pedido entregado sin fecha de despacho
+254,2024-06-13,7196869,Nicolas Alvarez,,Zapatillas Adidas Ultraboost,Moda,1.0,79990,8.9,entregado,2024-02-12,72870.89,Alto,region obligatoria
+258,2024-11-27,24217247-9,Paula Mendez,,Freidora de Aire Ultracomb,Hogar,3.0,29990,8.9,cancelado,,81962.67,Medio,region obligatoria
+263,2024-10-24,20841179-K,Sofia Castro,OHiggins,Hervidor Electrico Oster,Hogar,-3.0,9990,25.5,entregado,2024-07-26,-22327.65,Bajo,cantidad debe ser mayor que cero
+272,2024-01-01,21177378-6,Ignacio Flores,Coquimbo,Mouse Inalambrico Logitech,Tecnologia,3.0,79990,-5.0,entregado,,251968.5,Alto,descuento_pct debe estar entre 0 y 100 | pedido entregado sin fecha de despacho
+277,2024-07-15,19729457-0,Antonella Bustos,Araucania,Mouse Inalambrico Logitech,Tecnologia,4.0,29990,120.0,entregado,2024-11-10,-23992.0,Medio,descuento_pct debe estar entre 0 y 100
+282,2024-05-14,24250601-4,Catalina Nunez,Valparaiso,Set Cuchillos Tramontina,Hogar,9.0,39990,16.1,entregado,,301964.49,Medio,pedido entregado sin fecha de despacho
+285,2024-12-17,12071676,Ana Martinez,,Vestido Floral H&M,Moda,9.0,79990,1.0,despachado,2024-03-30,712710.9,Alto,region obligatoria
+288,2024-09-06,13532545,Ana Martinez,,Plancha a Vapor Philips,Hogar,9.0,199990,16.0,despachado,2024-05-08,1511924.4,Alto,region obligatoria
+295,2024-06-06,16538863-4,Paula Mendez,Biobio,Lampara LED de Escritorio,Hogar,0.0,79990,6.8,pendiente,,0.0,Alto,cantidad debe ser mayor que cero
+298,2024-11-14,9195619,Juan Perez,Araucania,Auriculares Sony WH1000,Tecnologia,8.0,9990,105.0,despachado,2024-04-06,-3996.0,Bajo,descuento_pct debe estar entre 0 y 100

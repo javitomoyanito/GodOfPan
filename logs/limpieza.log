@@ -1,9 +1,9 @@
-2026-07-10 03:36:13,851 | INFO | Inicio de limpieza y transformación
-2026-07-10 03:36:13,851 | INFO | Fecha: 2026-07-10 03:36:13.851395
-2026-07-10 03:36:13,851 | INFO | Registros iniciales: 316
-2026-07-10 03:36:13,851 | INFO | Filas vacías eliminadas: 1
-2026-07-10 03:36:13,851 | INFO | Duplicados eliminados por id_pedido: 15
-2026-07-10 03:36:13,851 | INFO | Registros finales de limpieza: 300
-2026-07-10 03:36:13,851 | INFO | Columnas derivadas creadas: total_venta, segmento_precio
-2026-07-10 03:36:13,851 | INFO | Archivo limpio guardado en: data/clean/ventas_clean.csv
-2026-07-10 03:36:13,851 | INFO | Etapa de limpieza finalizada correctamente
+2026-07-10 04:16:42,936 | INFO | Inicio de limpieza y transformación
+2026-07-10 04:16:42,936 | INFO | Fecha: 2026-07-10 04:16:42.936307
+2026-07-10 04:16:42,936 | INFO | Registros iniciales: 316
+2026-07-10 04:16:42,936 | INFO | Filas vacías eliminadas: 1
+2026-07-10 04:16:42,936 | INFO | Duplicados eliminados por id_pedido: 15
+2026-07-10 04:16:42,936 | INFO | Registros finales de limpieza: 300
+2026-07-10 04:16:42,936 | INFO | Columnas derivadas creadas: total_venta, segmento_precio
+2026-07-10 04:16:42,936 | INFO | Archivo limpio guardado en: data/clean/ventas_clean.csv
+2026-07-10 04:16:42,936 | INFO | Etapa de limpieza finalizada correctamente

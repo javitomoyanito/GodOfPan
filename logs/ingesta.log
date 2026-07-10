@@ -1,11 +1,11 @@
-2026-07-10 03:36:13,736 | INFO | Inicio de la etapa de ingesta
-2026-07-10 03:36:13,736 | INFO | Archivo cargado: ventas_datamart.csv
-2026-07-10 03:36:13,736 | INFO | Fecha de carga: 2026-07-10 03:36:13.736396
-2026-07-10 03:36:13,736 | INFO | Registros iniciales: 316
-2026-07-10 03:36:13,736 | INFO | Cantidad de columnas: 12
-2026-07-10 03:36:13,736 | INFO | Shape: (316, 12)
-2026-07-10 03:36:13,736 | INFO | Archivo RAW guardado en: data/raw/ventas_raw.csv
-2026-07-10 03:36:13,738 | INFO | Nulos por columna:
+2026-07-10 04:16:42,852 | INFO | Inicio de la etapa de ingesta
+2026-07-10 04:16:42,853 | INFO | Archivo cargado: ventas_datamart.csv
+2026-07-10 04:16:42,853 | INFO | Fecha de carga: 2026-07-10 04:16:42.853150
+2026-07-10 04:16:42,853 | INFO | Registros iniciales: 316
+2026-07-10 04:16:42,853 | INFO | Cantidad de columnas: 12
+2026-07-10 04:16:42,853 | INFO | Shape: (316, 12)
+2026-07-10 04:16:42,853 | INFO | Archivo RAW guardado en: data/raw/ventas_raw.csv
+2026-07-10 04:16:42,854 | INFO | Nulos por columna:
 id_pedido           1
 fecha_pedido        1
 rut_cliente         1
@@ -18,4 +18,4 @@ precio_unitario     1
 descuento_pct       1
 estado_pedido       1
 fecha_despacho     95
-2026-07-10 03:36:13,739 | INFO | Etapa de ingesta finalizada correctamente
+2026-07-10 04:16:42,854 | INFO | Etapa de ingesta finalizada correctamente

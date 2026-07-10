@@ -7,6 +7,7 @@ from pathlib import Path
 
 import pandas as pd
 
+import numpy as np
 
 RUTA_BD = Path("database/datamart.db")
 RUTA_RECHAZADOS = Path("data/errors/rechazados_bd.csv")
@@ -38,10 +39,22 @@ def configurar_logger() -> logging.Logger:
     return logger
 
 
-def convertir_nulos(valor: object) -> object:
-    """Convierte NaN/NA de pandas en None para SQLite."""
+def convertir_nulos(valor):
+    """
+    Convierte tipos de pandas y NumPy a tipos nativos de Python
+    compatibles con SQLite.
+    """
     if pd.isna(valor):
         return None
+
+    if isinstance(valor, np.integer):
+        return int(valor)
+
+    if isinstance(valor, np.floating):
+        return float(valor)
+
+    if isinstance(valor, np.bool_):
+        return bool(valor)
 
     return valor
 
@@ -64,12 +77,15 @@ def preparar_registros(df: pd.DataFrame) -> list[tuple]:
         "segmento_precio"
     ]
 
-    registros: list[tuple] = []
+    registros = []
 
     for fila in df[columnas].itertuples(index=False, name=None):
-        registros.append(
-            tuple(convertir_nulos(valor) for valor in fila)
+        fila_convertida = tuple(
+            convertir_nulos(valor)
+            for valor in fila
         )
+
+        registros.append(fila_convertida)
 
     return registros
 
