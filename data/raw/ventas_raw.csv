@@ -1,4 +1,4 @@
-id_pedido,fecha_pedido,rut_cliente,nombre_cliente,region,producto,categoria,cantidad,precio_unitario,descuento_pct,estado_pedido,fecha_despacho
+﻿id_pedido,fecha_pedido,rut_cliente,nombre_cliente,region,producto,categoria,cantidad,precio_unitario,descuento_pct,estado_pedido,fecha_despacho
 204.0,2024-12-17,7489752-5,Cristobal Avila,Valparaiso,Vestido Floral H&M,Moda,-1.0,9990,23.7,entregado,24/03/2024
 176.0,15-02-2024,9467646,CARLOS RODRIGUEZ,Maule,Hervidor Electrico Oster,HOGAR,3.0,49990,14.3,despachado,2024-02-22
 173.0,22-10-2024,20421005-0,Renata Campos,,Tablet Samsung A8,Tecnologia,6.0,29990,24.9,despachado,2024-10-16

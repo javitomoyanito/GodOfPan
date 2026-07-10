@@ -1,8 +1,12 @@
-ETAPA 3: VALIDACIÓN
-Fecha: 2026-07-09 16:40:27.463104
-Registros válidos: 230
-Registros inválidos: 71
-Cantidad <= 0: 17
-Precio <= 0: 0
-Descuento fuera de rango: 17
-Entregado sin despacho: 12
+2026-07-10 03:36:13,872 | INFO | Inicio de la etapa de validación
+2026-07-10 03:36:13,872 | INFO | Fecha: 2026-07-10 03:36:13.872374
+2026-07-10 03:36:13,872 | INFO | Registros evaluados: 300
+2026-07-10 03:36:13,872 | INFO | Registros válidos: 230
+2026-07-10 03:36:13,872 | INFO | Registros inválidos: 70
+2026-07-10 03:36:13,872 | INFO | region obligatoria: 33
+2026-07-10 03:36:13,872 | INFO | cantidad debe ser mayor que cero: 17
+2026-07-10 03:36:13,872 | INFO | descuento_pct debe estar entre 0 y 100: 17
+2026-07-10 03:36:13,872 | INFO | pedido entregado sin fecha de despacho: 12
+2026-07-10 03:36:13,872 | INFO | Válidos guardados en: data/validated/ventas_validas.csv
+2026-07-10 03:36:13,872 | INFO | Inválidos guardados en: data/errors/ventas_invalidas.csv
+2026-07-10 03:36:13,873 | INFO | Etapa de validación finalizada correctamente

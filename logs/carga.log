@@ -1,9 +1,5 @@
-ETAPA 4: CARGA A BASE DE DATOS
-Fecha: 2026-07-09 16:40:27.502298
-Base de datos: SQLite
-Registros cargados: 230
-
-Ventas por región:
-[('Maule', 12094064.299999999), ('Ohiggins', 11848037.39), ('Biobio', 11542656.97), ('Metropolitana', 11085101.83), ('Valparaiso', 10914646.92), ('Coquimbo', 8900525.37), ('Araucania', 8178324.67)]
-Ventas por categoría:
-[('Tecnologia', 27176762.44), ('Moda', 27116378.73), ('Hogar', 20270216.28)]
+2026-07-10 03:36:13,882 | ERROR | Error durante la carga. Se aplicó ROLLBACK: datatype mismatch
+Traceback (most recent call last):
+  File "/workspaces/GodOfPan/carga.py", line 174, in ejecutar_carga
+    cursor.executemany(
+sqlite3.IntegrityError: datatype mismatch
